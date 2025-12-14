@@ -65,22 +65,22 @@ const MessageCircle = ({ size = 24, className = "" }) => (
 const PRODUTOS = [
   {
     id: 1,
-    nome: "Jogo de Panelas Tramontina",
-    descricao: "Conjunto com 5 peças antiaderentes",
-    preco: 350.0,
+    nome: "Lava Louças 8 Serviços Prata 220V Midea",
+    descricao: "Lava Louças 8 Serviços Prata 220V Midea",
+    preco: 2310.90,
     imagem:
-      "https://images.unsplash.com/photo-1556911261-6bd341186b2f?w=800&h=600&fit=crop",
-    link: "https://www.americanas.com.br/produto/exemplo1",
+      "https://m.media-amazon.com/images/I/41uL5YHX9nL._AC_SX679_.jpg",
+    link: "https://www.amazon.com.br/Lava-Lou%C3%A7as-Servi%C3%A7os-Prata-Midea/dp/B0937F9TSG/ref=nosim",
     comprado: false,
   },
   {
     id: 2,
-    nome: "Jogo de Copos",
-    descricao: "12 copos de vidro elegantes",
-    preco: 89.9,
+    nome: "Micro-ondas MI41S 31L Espelhado Com Painel Integrado e Função Tira Odor Cor Inox Electrolux",
+    descricao: "Micro-ondas MI41S 31L Espelhado Com Painel Integrado e Função Tira Odor Cor Inox Electrolux",
+    preco: 756.20,
     imagem:
-      "https://images.unsplash.com/photo-1585516173212-c0f1f31d0fc5?w=800&h=600&fit=crop",
-    link: "https://www.americanas.com.br/produto/exemplo2",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_737435-MLA99445404918_112025-F.webp",
+    link: "https://www.mercadolivre.com.br/micro-ondas-mi41s-31l-espelhado-com-painel-integrado-e-funco-tira-odor-cor-inox-electrolux/p/MLB18363111?product_trigger_id=MLB18363111&attributes=COLOR%3AInox%2CVOLTAGE%3A220V_vpp&picker=true&quantity=1#reviews",
     comprado: true,
   },
 ];
