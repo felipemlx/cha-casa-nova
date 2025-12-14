@@ -803,6 +803,46 @@ const PRODUTOS = [
     link: "https://shopee.com.br/product/1325644369/58201040349?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkWHlFU0hvQlZFVENpb1FnT09uNDlDSURjbkI5VWw0Y2NsWjR6cTMyNENvK0k5cmpubWRmWVJxUWlmWFJlYksvLzBnYXBTL2dCNStxTE5zd2FJYThyNTNGb0ZSRlMrRmpIM09xZytDUEdoYWVMU2tBMHRwWlV0aHZMVkVuckcvQnZnPT0&gad_campaignid=20828771740",
     comprado: false,
   },
+  {
+    id: 75,
+    nome: "Ar Condicionado 9000 BTUs 220v",
+    descricao: "Ar Condicionado Hi Wall LG Dual Inverter Voice 9.000 Btus Quente e Frio 220v R-32",
+    preco: 2279.05,
+    imagem:
+      "https://m.media-amazon.com/images/I/51B5dWnb5tL._AC_SX522_.jpg",
+    link: "https://www.amazon.com.br/Condicionado-LG-Inverter-Voice-Quente/dp/B0CHZ75V3V/ref=asc_df_B0CHZ75V3V?mcid=484ec2781c3135b0968397809a89a3a0&hvadid=709968341215&hvpos=&hvnetw=g&hvrand=1189209080217534962&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-2438512851552&psc=1&language=pt_BR",
+    comprado: false,
+  },
+  {
+    id: 76,
+    nome: "Ar Condicionado 12000 BTUs 220v",
+    descricao: "Ar Condicionado Hi Wall LG Dual Inverter Voice 12.000 Btus Frio 220v R-32",
+    preco: 2231.55,
+    imagem:
+      "https://m.media-amazon.com/images/I/51B5dWnb5tL._AC_SX522_.jpg",
+    link: "https://www.amazon.com.br/Condicionado-LG-Inverter-Voice-12-000/dp/B0CHTM5V62/ref=asc_df_B0CHTM5V62?mcid=e08f26d63dc233f199f5af72fd23b17a&hvadid=709968341215&hvpos=&hvnetw=g&hvrand=2893479789121008751&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-2245671547199&psc=1&language=pt_BR",
+    comprado: false,
+  },
+  {
+    id: 77,
+    nome: "Saca Rolhas",
+    descricao: "Abridor De Garrafa Saca Rolha Sl0251",
+    preco: 19.00,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_867591-MLA99621614304_122025-F.webp",
+    link: "https://www.mercadolivre.com.br/abridor-de-garrafa-saca-rolha-sl0251/p/MLB24665401#polycard_client=search-nordic&search_layout=grid&position=15&type=product&tracking_id=f46795fe-c6e3-4c81-928a-34fe8f5e6aa9&wid=MLB4215801911&sid=search",
+    comprado: false,
+  },
+  {
+    id: 78,
+    nome: "Pipoqueira Elétrica 110v",
+    descricao: "Pipoqueira Popflix Mondial Vermelho1200W PP-03",
+    preco: 149.00,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_804282-MLA99461759148_112025-F.webp",
+    link: "https://www.mercadolivre.com.br/mondial-popflix-pp-03-vermelho-127v/p/MLB13471360?product_trigger_id=MLB14805721&attributes=COLOR%3AVermelho%2CVOLTAGE%3A127V_vpp&picker=true&quantity=1",
+    comprado: false,
+  },
   /*
   {
     id: ,
