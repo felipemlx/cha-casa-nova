@@ -133,6 +133,409 @@ const PRODUTOS = [
     link: "https://site.fastshop.com.br/panela-de-pressao-eletrica-electrolux-experience-por-rita-lobo-6l-inox---pcc20-expcc20ix_prd/p?idsku=13730&gad_campaignid=22756790833",
     comprado: false,
   },
+  {
+    id: 8,
+    nome: "Cooktop 4 Bocas Bivolt",
+    descricao: "Cooktop 4 Bocas Fischer Preto a Gás GLP - 1519",
+    preco: 449.00,
+    imagem:
+      "https://m.magazineluiza.com.br/a-static/420x420/cooktop-4-bocas-fischer-preto-a-gas-glp-1519/magazineluiza/011120200/a3135d13655d4d5ed67a15556c4d4c94.jpg",
+    link: "https://www.magazineluiza.com.br/cooktop-4-bocas-fischer-preto-a-gas-glp-1519/p/011120200/ed/ck4b/",
+    comprado: true,
+  },
+  {
+    id: 9,
+    nome: "Frigideira 4 Ovos",
+    descricao: "Frigideira 4 Ovos Fortaleza 26Cm - Preto",
+    preco: 59.99,
+    imagem:
+      "https://www.havan.com.br/media/catalog/product/cache/820af7facfa7aca6eb3c138e3457dc8d/f/r/frigideira-4-ovos-fortaleza-26cm_995253_1.webp",
+    link: "https://www.havan.com.br/frigideira-4-ovos-fortaleza-26cm-preto/p",
+    comprado: false,
+  },
+  {
+    id: 10,
+    nome: "Jogo de Panelas Tramontina",
+    descricao: "Jogo de Panelas Tramontina Linz em Aluminio com Revestimento Interno e Externo em Antiaderente Starflon Max Preto 05 Peças",
+    preco: 249.99,
+    imagem:
+      "https://m.media-amazon.com/images/I/81maZKD-2XL._AC_SL1500_.jpg",
+    link: "https://www.amazon.com.br/dp/B0DF3R5LQ4/ref=cm_cr_arp_d_bdcrb_top?ie=UTF8",
+    comprado: false,
+  },
+  {
+    id: 11,
+    nome: "Jogo De Talheres 24pcs",
+    descricao: "Jogo De Talheres Faqueiro Euro Com 24 Peças Completo De Aço Inox",
+    preco: 109.99,
+    imagem:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lsws4ztx0p3h00.webp",
+    link: "https://shopee.com.br/product/1046470373/22997389870?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkWHlFU0hvQlZFVENpb1FnT09uNDlDSVRad1VjdUUxNjlzWS9na1lrejBVcktPQm5sSU42ZGdaVWdlbHhpWHozb2lkQzJMNFlTVzVQRHlneHpCdEgweXZlVm1JT0FUaS9FMWFEK3hyaXFnUGdzMExsOW5BQ1ZZVElzc3hYeXlndlJnPT0&gad_campaignid=20828771740",
+    comprado: false,
+  },
+  {
+    id: 12,
+    nome: "Jogo De Talheres 30pcs",
+    descricao: "WOLFF Faqueiro de Aço Inox Berna 30 Peças - Mesa Posta",
+    preco: 240.00,
+    imagem:
+      "https://m.media-amazon.com/images/I/71YJtog8PDL._AC_SL1200_.jpg",
+    link: "https://www.amazon.com.br/Faqueiro-Pe%C3%A7as-A%C3%A7o-Inox-Berna/dp/B076PL2ZSP/ref=asc_df_B076PL2ZSP?mcid=2d4795bf688732a5b00e6ad462175cbd&hvadid=709964506220&hvpos=&hvnetw=g&hvrand=9940794270351669298&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-811779203418&language=pt_BR",
+    comprado: false,
+  },
+  {
+    id: 13,
+    nome: "Jogo De Facas 7pcs",
+    descricao: "Jogo De Facas Tramontina Plenus Com Lâminas Em Aço Inox E Cabos De Polipropileno Preto 07 Peças",
+    preco: 54.99,
+    imagem:
+      "https://m.media-amazon.com/images/I/61PPolYwilL._AC_SL1200_.jpg",
+    link: "https://www.amazon.com.br/Facas-Tramontina-L%C3%A2minas-Plenus-Modelo/dp/B0BBY9Y6D6/ref=asc_df_B0BBY9Y6D6?mcid=9aab993c84e63356b6caf0c45f9f2578&hvadid=709964506277&hvpos=&hvnetw=g&hvrand=14921459110520029236&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-1890676181680&psc=1&language=pt_BR",
+    comprado: false,
+  },
+  {
+    id: 14,
+    nome: "Kit 10 Utensílios de Cozinha em Silicione e Aço Inox",
+    descricao: "LUMAI Kit 10 Utensílios de Cozinha em Silicone e Aço Inox, Resistentes ao Calor e Antirriscos, Não Arranham Panelas, Conjunto Acessórios de Cozinha Completo com Espátula, Pegador, Concha, Colher Preto",
+    preco: 123.37,
+    imagem:
+      "https://m.media-amazon.com/images/I/71lOtIGbc2L._AC_SL1500_.jpg",
+    link: "https://www.amazon.com.br/Conjunto-Utens%C3%ADlios-Cozinha-Silicone-Inox/dp/B0BVSZRH8R/ref=sr_1_15?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-15",
+    comprado: false,
+  },
+  {
+    id: 15,
+    nome: "Conjunto Espátula para Manteiga",
+    descricao: "Conjunto De Espátula Para Manteiga 6 Pç Tramontina Inox",
+    preco: 30.43,
+    imagem:
+      "https://m.media-amazon.com/images/I/41WyeT009lL._AC_SL1000_.jpg",
+    link: "https://www.amazon.com.br/Conjunto-Esp%C3%A1tulas-Manteiga-66906241-Tramontina/dp/B076M7RJ3Z/ref=asc_df_B076M7RJ3Z?mcid=ce96cf021dc7393588605c37e368379a&hvadid=709964506283&hvpos=&hvnetw=g&hvrand=11606906230995601264&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-812002844585&psc=1&language=pt_BR",
+    comprado: false,
+  },
+  {
+    id: 16,
+    nome: "Kit Prato Tramontina",
+    descricao: "Kit Prato Raso Tramontina Sophia em Porcelana Decorada 28 cm 06 Peças",
+    preco: 184.30,
+    imagem:
+      "https://m.media-amazon.com/images/I/815I456DAwL._AC_SL1500_.jpg",
+    link: "",
+    comprado: false,
+  },
+  {
+    id: 17,
+    nome: "Aparelho de Jantar 20pcs",
+    descricao: "Aparelho De Jantar Ryo Maresia Oxford 20 Pçs - Porcelana",
+    preco: 499.90,
+    imagem:
+      "https://www.havan.com.br/media/catalog/product/cache/820af7facfa7aca6eb3c138e3457dc8d/a/p/aparelho-de-jantar-ryo-maresia-oxford-20-pcs_1152123.webp",
+    link: "https://www.havan.com.br/aparelho-de-jantar-ryo-maresia-oxford-20-pcs-porcelana/p",
+    comprado: false,
+  },
+  {
+    id: 18,
+    nome: "Air Fryer 110v",
+    descricao: "Fritadeira Sem Óleo Capacidade de 4L, Midea, 1400 W, Aquece Em 10-60 min 80℃ a 200 ℃, Air Fryer Com Fluxo de Ar de 360°, Fritadeira Eletrica, Design Compacto, Preto, 110V, MAF400P0APK",
+    preco: 283.54,
+    imagem:
+      "https://m.media-amazon.com/images/I/519xtj+hWQL._AC_SL1000_.jpg",
+    link: "https://www.amazon.com.br/Fritadeira-Capacidade-Midea-Eletrica-MAF400P0APK/dp/B0CZM7944K/ref=asc_df_B0CZM7944K?mcid=9b3fd15c0bec3c96943bbd43ddfa5d61&hvadid=709964506256&hvpos=&hvnetw=g&hvrand=14384936127917328476&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-2309174733069&language=pt_BR",
+    comprado: false,
+  },
+  {
+    id: 19,
+    nome: "Lixeira Branca ou Preta Banheiro",
+    descricao: "Lixeira Inteligente Abertura Automática Média de Banheiro Cozinha Escritório 13 Litros",
+    preco: 72.99,
+    imagem:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m8nowll6kcr526.webp",
+    link: "https://shopee.com.br/product/1049231391/22798407857?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkWHlFU0hvQlZFVENpb1FnT09uNDlDSVRad1VjdUUxNjlzWS9na1lrejBVcnBpd3haNW1pNnhFbXF4ZERGamxKcm5CTVE2Tm5sZEQ1MVhaeEVsVFdwTHRNNU4wNlR2OHY2Tlh6b3B0anNIVW1lUFVlVzRnQVhCYXM1T1ZGZXZ5UmxBPT0&gad_campaignid=20828771740",
+    comprado: false,
+  },
+  {
+    id: 20,
+    nome: "Kit 2 Toalhas Banho",
+    descricao: "Kit 2 Toalhas Banho Yuna Karsten",
+    preco: 103.11,
+    imagem:
+      "https://m.magazineluiza.com.br/a-static/420x420/kit-2-toalhas-banho-yuna-karsten/paschenxovais/571-3968/fa698dccd9988f4b54a27ae220b8285b.jpeg",
+    link: "https://www.magazineluiza.com.br/kit-2-toalhas-banho-yuna-karsten/p/jkk88dkh95/cm/joto/?seller_id=paschenxovais",
+    comprado: false,
+  },
+  {
+    id: 21,
+    nome: "Jogo 4 Toalhas Banhão",
+    descricao: "Jogo de toalhas Banhão Gigante Karsten Lumina 4 Peças Fio Penteado",
+    preco: 242.92,
+    imagem:
+      "https://m.magazineluiza.com.br/a-static/420x420/jogo-de-toalhas-banhao-gigante-karsten-lumina-4-pecas-fio-penteado/capricholar/cap-fk-jg-lumina-4/8a729bcf0bf5dbc0543a07d5dee6fdad.jpeg",
+    link: "https://www.magazineluiza.com.br/jogo-de-toalhas-banhao-gigante-karsten-lumina-4-pecas-fio-penteado/p/ha9fe8168a/cm/joto/",
+    comprado: false,
+  },
+  {
+    id: 22,
+    nome: "Jogo De Toalhas 4 Peças - Banho e Rosto",
+    descricao: "Jogo De Toalhas 4 Peças - Banho e Rosto Algodão Antipiling Yuna Karsten - Emcompre",
+    preco: 189.63,
+    imagem:
+      "https://m.magazineluiza.com.br/a-static/420x420/jogo-de-toalhas-4-pecas-banho-e-rosto-algodao-antipiling-yuna-karsten-emcompre/emcompre/435402/cb477502373b44c233b901e1c8f93cdb.jpeg",
+    link: "https://www.magazineluiza.com.br/jogo-de-toalhas-4-pecas-banho-e-rosto-algodao-antipiling-yuna-karsten-emcompre/p/gha1ah0g2e/cm/joto/",
+    comprado: false,
+  },
+  {
+    id: 23,
+    nome: "Kit 4x Saleiro e Paliteiro",
+    descricao: "Kit Saleiro e Paliteiro em Aço Inox Vidro",
+    preco: 36.75,
+    imagem:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mabot4pjzwl214@resize_w450_nl.webp",
+    link: "https://shopee.com.br/product/402561296/22296226895?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkVHQ3ZkZSUTMrR3pBWmZZNzdrcnRBMlhLNlpHOGNCMm5XdFNSeGxXWGVRNnBFeWErVE1MNFhuNXdCcjdMeWVZcFBma2d6UXZBVDczbXpCaDNtVnNHQUJqVmdhMGpmd1U2dkExR1d1Q3o3VEhRdDB6MXc4azY5eHQwVkxxUVVOMm13PT0&gad_campaignid=20828771740",
+    comprado: false,
+  },
+  {
+    id: 24,
+    nome: "Colher de Sorvete",
+    descricao: "Colher P/ Sorvete Top Pratic 21, 5cm Brinox Aço Inox",
+    preco: 26.97,
+    imagem:
+      "https://m.media-amazon.com/images/I/51Oaa+IR1sL._AC_SX679_.jpg",
+    link: "https://www.amazon.com.br/Colher-Sorvete-Brinox-8215-99-90-Prata/dp/B076Z82HV1/ref=sr_1_32?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-32",
+    comprado: false,
+  },
+  {
+    id: 25,
+    nome: "Lixeira 40L",
+    descricao: "Lixeira C/ Pedal 40l Preta Eco Nature",
+    preco: 59.90,
+    imagem:
+      "https://m.media-amazon.com/images/I/51R2G9ne7rL._AC_SY879_.jpg",
+    link: "https://www.amazon.com.br/Lixeira-Pedal-40l-Preta-Nature/dp/B08SPN6P13/ref=asc_df_B08SPN6P13?mcid=71f9e6df9a0b3b1f9201045a08c0ba80&hvadid=709968341206&hvpos=&hvnetw=g&hvrand=5485595429143151989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-1177846128866&psc=1&language=pt_BR",
+    comprado: false,
+  },
+  {
+    id: 26,
+    nome: "Luva Térmica",
+    descricao: "Luva Térmica Grafatex Anatomica - Par - Até 350 Graus - 50cm",
+    preco: 58.90,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_980002-MLB74061447405_012024-F-luva-termica-grafatex-anatomica-par-ate-350-graus-50cm.webp",
+    link: "https://produto.mercadolivre.com.br/MLB-3718615240-luva-termica-grafatex-anatomica-par-ate-350-graus-50cm-_JM?matt_tool=18956390#reviews",
+    comprado: false,
+  },
+  {
+    id: 27,
+    nome: "Robô Aspirador",
+    descricao: "Robô Aspirador e Passa Pano KABUM! smart 900 - 5 Modos de Limpeza, Base 2 em 1, Mapeamento 3D - 127v - Preto - KBSF009",
+    preco: 1699.90,
+    imagem:
+      "https://images8.kabum.com.br/produtos/fotos/366168/robo-aspirador-e-passa-pano-kabum-smart-900-127v-preto-kbsf009_1732795761_gg.jpg",
+    link: "https://www.kabum.com.br/produto/366168/robo-aspirador-e-passa-pano-kabum-smart-900-5-modos-de-limpeza-base-2-em-1-mapeamento-3d-127v-preto-kbsf009",
+    comprado: false,
+  },
+  {
+    id: 28,
+    nome: "Mesa Passadeira Tabua",
+    descricao: "Mesa Passadeira Tabua De Passar Roupa Portátil Em Aço Carbono Extra Forte Reforçada Com Porta Ferro",
+    preco: 62.99,
+    imagem:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-md3gq8wzx0ky77@resize_w450_nl.webp",
+    link: "https://shopee.com.br/product/317239028/23593167219?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkVHQ3ZkZSUTMrR3pBWmZZNzdrcnRBMWtOaFRnRVlWZUc2WjBKUDAvWk5QMVZ5RllRVlpiZFN6UTRWNVcxWFM1akRWbElycE9YVy8rUWU3Q0V3UUxOYm94Z0tzMGVnVFdGTnRWWHV3cE1wdFBWOWJIM0psUWluREpGcmtHaW5WZUhnPT0&gad_campaignid=20828771740",
+    comprado: false,
+  },
+  {
+    id: 29,
+    nome: "Rodo de Pia",
+    descricao: "Sanremo - Rodo de Pia Plástico de 14 cm, Linha Casar",
+    preco: 7.30,
+    imagem:
+      "https://m.media-amazon.com/images/I/41vbRg4q4IL._AC_SX679_.jpg",
+    link: "https://www.amazon.com.br/Pl%C3%A1stico-Preta-Linha-Casar-Sanremo/dp/B0C2HZ8FJ2/ref=asc_df_B0C2HZ8FJ2?mcid=b2c269b722d63656989468e05fcbd011&hvadid=709968341005&hvpos=&hvnetw=g&hvrand=6740662713723589633&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-2202104236275&language=pt_BR",
+    comprado: false,
+  },
+  {
+    id: 30,
+    nome: "Rodo",
+    descricao: "Não precisa de modelo específico.",
+    preco: 20.00,
+    imagem:
+      "https://m.media-amazon.com/images/I/513wCOfYuVL._AC_SX679_.jpg",
+    link: "https://www.amazon.com.br/Tamanho-M%C3%A9dio-Tiffany-Novi%C3%A7a-Bettanin/dp/B078XPSZSL/ref=asc_df_B078XPSZSL?mcid=a289afea861530bba760d383e7b60fd7&hvadid=709968341005&hvpos=&hvnetw=g&hvrand=16195330138119514777&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-2077793299862&psc=1&language=pt_BR",
+    comprado: false,
+  },
+  {
+    id: 31,
+    nome: "Kit 3 Peneiras",
+    descricao: "Jogo 3 Peneiras Aço Inox Cozinha Doméstica e Profissional Resistentes Telas Finas Antiferrugem Multiuso Ideal para Alimentos Farinhas Chás e Sucos ponte lar utilidades",
+    preco: 20.70,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_786486-MLA99351805286_112025-F.webp",
+    link: "https://www.mercadolivre.com.br/jogo-3-peneiras-aco-inox-cozinha-domestica-e-profissional-resistentes-telas-finas-antiferrugem-multiuso-ideal-para-alimentos-farinhas-chas-e-sucos-ponte-lar-utilidades/p/MLB26404946#polycard_client=search_best-seller&tracking_id=71a82dce-157f-4d73-b77f-040ecfb394dd&wid=MLB4296253115&sid=search",
+    comprado: false,
+  },
+  {
+    id: 32,
+    nome: "Ralador",
+    descricao: "Ralador Tramontina Easy Preto",
+    preco: 29.99,
+    imagem:
+      "https://m.media-amazon.com/images/I/512hoNqSEqL._AC_SX679_.jpg",
+    link: "https://www.amazon.com.br/Ralador-Tramontina-Easy-25106400-Preto/dp/B076MBZ67S/ref=asc_df_B076MBZ67S?mcid=f522711726be30b8bf161dd533fe3976&hvadid=709964506241&hvpos=&hvnetw=g&hvrand=16531330082369595480&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-871739870334&language=pt_BR",
+    comprado: false,
+  },
+  {
+    id: 33,
+    nome: "Kit Assadeiras de Vidro 2pcs",
+    descricao: "Jogo De Assadeiras Retangular Sempre Nadir - 2 Peças",
+    preco: 59.99,
+    imagem:
+      "https://www.havan.com.br/media/catalog/product/cache/820af7facfa7aca6eb3c138e3457dc8d/j/o/jogo-de-travessas-retangular-sempre-nadir_1109663.webp",
+    link: "https://www.havan.com.br/jogo-de-assadeiras-retangular-sempre-nadir-2-peas/p",
+    comprado: false,
+  },
+  {
+    id: 34,
+    nome: "Kit Assadeiras Teflon 2pcs",
+    descricao: "Jogo de Assadeiras Tramontina Antiaderente Starflon Max Rosa 02 Pçs",
+    preco: 88.90,
+    imagem:
+      "https://m.magazineluiza.com.br/a-static/420x420/jogo-de-assadeiras-tramontina-antiaderente-starflon-max-rosa-02-pcs/homepoint/sh6825/c34475859c9b165067e3af63eab3a640.jpeg",
+    link: "https://www.magazineluiza.com.br/jogo-de-assadeiras-tramontina-antiaderente-starflon-max-rosa-02-pcs/p/fg17gb6924/ud/assa/?seller_id=homepoint",
+    comprado: false,
+  },
+  {
+    id: 35,
+    nome: "Descascador",
+    descricao: "Descascador Tramontina Verano com Lâmina em Aço Inox com Fio Liso e Cabo de Polipropileno Vermelho",
+    preco: 31.19,
+    imagem:
+      "https://assets.tramontina.com.br/upload/tramon/imagens/CUT/25585170PDM001G.jpg",
+    link: "https://www.tramontina.com.br/descascador-tramontina-verano-com-lamina-em-aco-inox-com-fio-liso-e-cabo-de-polipropileno-vermelho/25585170.html",
+    comprado: false,
+  },
+  {
+    id: 36,
+    nome: "Escorredor de Macarrão",
+    descricao: "Escorredor De Macarrão Massa Inox Brinox Com Alça Cozinha",
+    preco: 37.70,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_974224-MLA100074034017_122025-F.webp",
+    link: "https://www.mercadolivre.com.br/escorredor-de-macarro-massa-inox-brinox-com-alca-cozinha/p/MLB24325061#polycard_client=search_best-seller&tracking_id=5ce05cb4-eb88-425f-b250-44d179d8fd4d&wid=MLB4279497805&sid=search",
+    comprado: false,
+  },
+  {
+    id: 37,
+    nome: "Kit Cesto e Balde",
+    descricao: "Kit cesto 26L e balde 10L dobrável retrátil prático Powermaid cor branco",
+    preco: 62.27,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_614529-MLA99442566842_112025-F.webp",
+    link: "https://www.mercadolivre.com.br/kit-cesto-26l-e-balde-10l-dobravel-retratil-pratico-powermaid-cor-branco/p/MLB28131268#polycard_client=search_best-seller&tracking_id=07b302f7-4584-480e-a647-681cefa0e91b&wid=MLB5285240924&sid=search",
+    comprado: false,
+  },
+  {
+    id: 38,
+    nome: "Kit Dispenser 2pcs",
+    descricao: "2x Dispenser Produtos De Limpeza 2,3 Litros Ou Flow Branco",
+    preco: 64.95,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_852816-MLA96153647541_102025-F.webp",
+    link: "https://www.mercadolivre.com.br/ou-flow-transparente/p/MLB38934892?product_trigger_id=MLB47637228&picker=true&quantity=1",
+    comprado: false,
+  },
+  {
+    id: 39,
+    nome: "Sanduicheira 110v",
+    descricao: "Sanduicheira Grill Britânia BGR27I Press 850W Antiaderente – Inox/Preta - 110V",
+    preco: 122.55,
+    imagem:
+      "https://imgs.casasbahia.com.br/55058800/1g.jpg?imwidth=500",
+    link: "https://www.casasbahia.com.br/sanduicheira-grill-britania-bgr27i-press-850w-antiaderente-inox-preta-110v/p/55058800",
+    comprado: false,
+  },
+  {
+    id: 40,
+    nome: "Kit Tábua Petisqueira",
+    descricao: "Kit Tábua Grande Para Queijos E Frios Com Petisqueira Bambu Circular Tabua de 40cm x 29,5cm para Servir e Organizar Mesas Encontro Familiar Amigos e Romantico Cor Marrom",
+    preco: 147.00,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_896840-MLA99967101945_112025-F.webp",
+    link: "https://www.mercadolivre.com.br/kit-tabua-grande-para-queijos-e-frios-com-petisqueira-bambu-circular-tabua-de-40cm-x-295cm-para-servir-e-organizar-mesas-encontro-familiar-amigos-e-romantico-cor-marrom/p/MLB51230564#reviews",
+    comprado: false,
+  },
+  {
+    id: 41,
+    nome: "Forma de Pizza",
+    descricao: "Forma De Pizza 35 Cm Cor Alumínio",
+    preco: 25.96,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_894819-MLA99595837892_122025-F.webp",
+    link: "https://www.mercadolivre.com.br/forma-de-pizza-35-cm-cor-aluminio/p/MLB28493230#polycard_client=search_best-seller&tracking_id=07865207-a04e-48d0-a1fd-dcabb0e1dcae&wid=MLB5411674684&sid=search",
+    comprado: false,
+  },
+  {
+    id: 42,
+    nome: "Cortador de Pizza",
+    descricao: "Cortador De Pizza Profissional Inox Massas Pães Bolos Tortas",
+    preco: 32.99,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_743111-MLA99624767638_122025-F.webp",
+    link: "https://www.mercadolivre.com.br/cortador-de-pizza-profissional-inox-massas-pes-bolos-tortas/p/MLB26341011#polycard_client=search_best-seller&tracking_id=43085f2b-6aae-4fa9-a6c9-d66550a98d1b&wid=MLB4614347314&sid=search",
+    comprado: false,
+  },
+  {
+    id: 43,
+    nome: "Abridor de Lata",
+    descricao: "Abridor De Lata Automático Emborrachado Pratico E Eficiente Cor Prateado",
+    preco: 25.15,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_901023-MLA99600306326_122025-F.webp",
+    link: "https://www.mercadolivre.com.br/abridor-de-lata-automatico-emborrachado-pratico-e-eficiente-cor-prateado/p/MLB39306028#polycard_client=search_best-seller&tracking_id=47e0c052-ed46-4407-8520-89297014e881&wid=MLB4060144387&sid=search",
+    comprado: false,
+  },
+  {
+    id: 44,
+    nome: "Liquidificador 110v",
+    descricao: "Liquidificador Philco PH900 Preto 1200W com 12 Velocidades - 110V",
+    preco: 119.00,
+    imagem:
+      "https://imgs.casasbahia.com.br/5082530/1xg.jpg?imwidth=500",
+    link: "https://www.casasbahia.com.br/liquidificador-philco-ph900-preto-1200w-com-12-velocidades/p/5082530?IdSku=5082530&idLojista=10037&tipoLojista=1P&&gad_campaignid=22439388159",
+    comprado: false,
+  },
+  {
+    id: 45,
+    nome: "Batedeira 110v",
+    descricao: "Batedeira Paris Duo Mixer Turbo 4 Litros 500w Preta Philco Cor Preto Frequência 60",
+    preco: 110.53,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_668544-MLA99450648098_112025-F.webp",
+    link: "https://www.mercadolivre.com.br/batedeira-paris-duo-mixer-turbo-4-litros-500w-preta-philco-cor-preto-frequncia-60/p/MLB27117836#polycard_client=search_best-seller&tracking_id=28945967-1a1e-4902-afc1-978cd3e88250&wid=MLB3448589113&sid=search",
+    comprado: false,
+  },
+  {
+    id: 46,
+    nome: "Kit Copo Medidor 2pcs",
+    descricao: "We Varejo - Kit 2 Copos Medidores Transparente 500 Ml Medidas Cozinha Copo Plástico Medidor Dosador Líquido Medida Receita Medir Porção Graduado Ingredientes",
+    preco: 19.00,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_668716-MLA99633968720_122025-F.webp",
+    link: "https://www.mercadolivre.com.br/we-varejo-kit-2-copos-medidores-transparente-500-ml-medidas-cozinha-copo-plastico-medidor-dosador-liquido-medida-receita-medir-porco-graduado-ingredientes/p/MLB53818094#polycard_client=search_best-seller&tracking_id=ba63a0f0-5fbb-4aa6-b442-ad27c917cc37&wid=MLB5656384942&sid=search",
+    comprado: false,
+  },
+  
+  /*
+  {
+    id: ,
+    nome: "",
+    descricao: "",
+    preco: ,
+    imagem:
+      "",
+    link: "",
+    comprado: false,
+  },
+  */
 ];
 
 const WHATSAPP = "5534991597928";
