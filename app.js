@@ -62,6 +62,11 @@ const MessageCircle = ({ size = 24, className = "" }) => (
   </SvgIcon>
 );
 
+const ATUALIZADO_EM = "14/12/2025"; 
+const PIX_QR_SRC = "./pix-qrcode.png";
+const PIX_CHAVE = "00020126360014BR.GOV.BCB.PIX0114+55349915979285204000053039865802BR5922Felipe Martins Leandro6009SAO PAULO62140510IZTTTJLwMv63049DF0";
+
+
 const PRODUTOS = [
   {
     id: 1,
@@ -875,7 +880,7 @@ function App() {
     if (ordenacao === "nome") return a.nome.localeCompare(b.nome);
     if (ordenacao === "preco-menor") return a.preco - b.preco;
     if (ordenacao === "preco-maior") return b.preco - a.preco;
-    return 0;
+    return b.id - a.id;
   });
 
   const totalDisponiveis = PRODUTOS.filter((p) => !p.comprado).length;
@@ -897,6 +902,7 @@ function App() {
                 Felipe <span className="text-pink-500">&</span> Bárbara
               </h1>
               <p className="text-gray-600 text-sm">Nosso Chá de Casa Nova</p>
+              <p className="text-gray-400 text-xs mt-1">Atualizado em: <span className="font-medium">{ATUALIZADO_EM}</span></p>
             </div>
             <Heart className="text-pink-500" size={32} fill="currentColor" />
           </div>
@@ -929,6 +935,28 @@ function App() {
 
       {/* Controles */}
       <div className="max-w-6xl mx-auto px-4 mt-6 space-y-4">
+        {/* Doações via PIX */}
+        <div className="bg-white rounded-xl shadow-sm p-4 border border-pink-100 flex flex-col md:flex-row items-center justify-between gap-4">
+          <div>
+            <h2 className="text-lg font-bold text-gray-800">Doações via PIX 💖</h2>
+            <p className="text-gray-600 text-sm mt-1">
+              Se quiser contribuir com a nossa casinha, é só escanear o QR Code. Obrigado!
+            </p>
+
+            {PIX_CHAVE && (
+              <p className="text-gray-500 text-xs mt-2">
+                Chave (copia e cola): <span className="font-mono break-all">{PIX_CHAVE}</span>
+              </p>
+            )}
+          </div>
+
+          <img
+            src={PIX_QR_SRC}
+            alt="QR Code do PIX"
+            className="w-36 h-36 rounded-lg border border-gray-200 bg-white p-2"
+            loading="lazy"
+          />
+        </div>
         {/* Estatísticas */}
         <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
           <div className="bg-white rounded-lg shadow-sm p-4 text-center">
@@ -1003,7 +1031,7 @@ function App() {
                   : "bg-gray-100 text-gray-700 hover:bg-gray-200"
               }`}
             >
-              Padrão
+              Mais recentes
             </button>
             <button
               onClick={() => setOrdenacao("nome")}
