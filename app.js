@@ -65,7 +65,7 @@ const MessageCircle = ({ size = 24, className = "" }) => (
 const PRODUTOS = [
   {
     id: 1,
-    nome: "Lava Louças 8 Serviços Prata 220V Midea",
+    nome: "Lava Louças 220v",
     descricao: "Lava Louças 8 Serviços Prata 220V Midea",
     preco: 2310.90,
     imagem:
@@ -75,13 +75,63 @@ const PRODUTOS = [
   },
   {
     id: 2,
-    nome: "Micro-ondas MI41S 31L Espelhado Com Painel Integrado e Função Tira Odor Cor Inox Electrolux",
+    nome: "Micro-ondas 110v",
     descricao: "Micro-ondas MI41S 31L Espelhado Com Painel Integrado e Função Tira Odor Cor Inox Electrolux",
     preco: 756.20,
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_737435-MLA99445404918_112025-F.webp",
     link: "https://www.mercadolivre.com.br/micro-ondas-mi41s-31l-espelhado-com-painel-integrado-e-funco-tira-odor-cor-inox-electrolux/p/MLB18363111?product_trigger_id=MLB18363111&attributes=COLOR%3AInox%2CVOLTAGE%3A220V_vpp&picker=true&quantity=1#reviews",
     comprado: true,
+  },
+  {
+    id: 3,
+    nome: "Máquina Lava e Seca 110v",
+    descricao: "Máquina de Lavar Midea HealthGuard Smart 11kg Titanium MF200W110WB/GK - 110V",
+    preco: 2499.00,
+    imagem:
+      "https://imgs.casasbahia.com.br/1562303218/2xg.jpg?imwidth=500",
+    link: "https://www.casasbahia.com.br/maquina-de-lavar-midea-healthguard-smart-11kg-titanium-mf200w110wb-gk/p/1562303218?IdSku=1562303218&idLojista=221778&tipoLojista=3P&&gad_campaignid=22327510536",
+    comprado: false,
+  },
+  {
+    id: 4,
+    nome: "Geladeira Bivolt ou 220v",
+    descricao: "Geladeira/Refrigerador Electrolux Frost Free Inverse Inox Look 400L Efficient IB6S Bivolt",
+    preco: 4099.00,
+    imagem:
+      "https://a-static.mlcdn.com.br/420x420/geladeira-refrigerador-electrolux-frost-free-inverse-inox-look-400l-efficient-ib6s-bivolt/magazineluiza/240441500/42c30db0515ff6841876c4bf70500f06.jpg",
+    link: "https://www.magazineluiza.com.br/geladeira-refrigerador-electrolux-frost-free-inverse-inox-look-400l-efficient-ib6s-bivolt/p/240441500/ed/refr/?seller_id=magazineluiza",
+    comprado: false,
+  },
+  {
+    id: 5,
+    nome: "Forno de Embutir Elétrico 220v",
+    descricao: "Forno de Embutir Elétrico Electrolux 80L Efficient com PerfectCook (OE8EL) - 220V",
+    preco: 1749.00,
+    imagem:
+      "https://imgs.casasbahia.com.br/1562458799/2xg.jpg?imwidth=500",
+    link: "https://www.casasbahia.com.br/forno-de-embutir-eletrico-electrolux-80l-efficient-com-perfectcook-oe8el/p/1562458799?IdSku=1562458799&idLojista=24506&tipoLojista=3P&&gad_campaignid=22819949204",
+    comprado: false,
+  },
+  {
+    id: 6,
+    nome: "Depurador de Ar Philco 110v",
+    descricao: "Depurador de Ar Philco PDR60I Slim Inox - 60cm - 110V",
+    preco: 550.00,
+    imagem:
+      "https://imgs.casasbahia.com.br/12366301/1xg.jpg?imwidth=500",
+    link: "https://www.casasbahia.com.br/depurador-de-ar-philco-pdr60i-slim-inox-60cm-110v/p/12366301",
+    comprado: false,
+  },
+  {
+    id: 7,
+    nome: "Panela de Pressão Elétrica 110v ou 220v",
+    descricao: "Panela de Pressão Elétrica Electrolux Experience por Rita Lobo 6L Inox - PCC20",
+    preco: 545.02,
+    imagem:
+      "https://fastshopbr.vtexassets.com/arquivos/ids/2679023/0_1a03a01d-f15f-4ecd-a2e9-b53e4675c3a5.jpg?v=638991522036600000",
+    link: "https://site.fastshop.com.br/panela-de-pressao-eletrica-electrolux-experience-por-rita-lobo-6l-inox---pcc20-expcc20ix_prd/p?idsku=13730&gad_campaignid=22756790833",
+    comprado: false,
   },
 ];
 
