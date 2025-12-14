@@ -523,7 +523,286 @@ const PRODUTOS = [
     link: "https://www.mercadolivre.com.br/we-varejo-kit-2-copos-medidores-transparente-500-ml-medidas-cozinha-copo-plastico-medidor-dosador-liquido-medida-receita-medir-porco-graduado-ingredientes/p/MLB53818094#polycard_client=search_best-seller&tracking_id=ba63a0f0-5fbb-4aa6-b442-ad27c917cc37&wid=MLB5656384942&sid=search",
     comprado: false,
   },
-  
+  {
+    id: 47,
+    nome: "Smart TV 50\"",
+    descricao: "Smart TV TCL 50 4K QLED UHD 50P7K Google TV 60Hz Processador AiPQ Preta",
+    preco: 1899.04,
+    imagem:
+      "https://imgs.casasbahia.com.br/55069450/1xg.jpg?imwidth=500",
+    link: "https://www.casasbahia.com.br/smart-tv-tcl-50-4k-qled-uhd-50p7k-google-tv-60hz-processador-aipq-preta/p/55069450?IdSku=55069450&idLojista=10037&tipoLojista=1P&&gad_campaignid=22434352731",
+    comprado: false,
+  },
+  {
+    id: 48,
+    nome: "Smart TV 40\"",
+    descricao: "Smart TV 40\" TCL Full HD QLED 40S5K Google TV 2 HDMI",
+    preco: 1215.05,
+    imagem:
+      "https://m.magazineluiza.com.br/a-static/420x420/smart-tv-40-tcl-full-hd-qled-40s5k-google-tv-2-hdmi/magazineluiza/240424300/f60a411527c8cfddf5f8ca404ca1fc2e.jpg",
+    link: "https://www.magazineluiza.com.br/smart-tv-40-tcl-full-hd-qled-40s5k-google-tv-2-hdmi/p/240424300/et/tves/",
+    comprado: false,
+  },
+  {
+    id: 49,
+    nome: "Jogo de Taças de Vidro para Sobremesa",
+    descricao: "Jogo de Taças de Vidro para Sobremesa Transparente 150ml 6 Peças Haus Concept Lótus",
+    preco: 25.12,
+    imagem:
+      "https://m.magazineluiza.com.br/a-static/420x420/jogo-de-tacas-de-vidro-para-sobremesa-transparente-150ml-6-pecas-haus-concept-lotus/magazineluiza/238303600/78ebab7908e3ac04b5421801e6186f0b.jpg",
+    link: "https://www.magazineluiza.com.br/jogo-de-tacas-de-vidro-para-sobremesa-transparente-150ml-6-pecas-haus-concept-lotus/p/238303600/ud/tcsb/?seller_id=magazineluiza",
+    comprado: false,
+  },
+  {
+    id: 50,
+    nome: "Kit 6x Cumbuca Bowl",
+    descricao: "Kit 6x Cumbuca Bowl Porcelana 500ml Caldo Sopa Salgadinho Cor Branco",
+    preco: 112.90,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_637039-MLU79070388514_092024-F.webp",
+    link: "https://www.mercadolivre.com.br/terramada-liso-branco-kit-6-500-ml/p/MLB24854161?product_trigger_id=MLB24854111&picker=true&quantity=1",
+    comprado: false,
+  },
+  {
+    id: 51,
+    nome: "Bowl Tigela Bacia Aço Inox",
+    descricao: "Bowl Tigela Bacia Aço Inox Escovado Saladeira 22 Cm Mistura Cor Prateado",
+    preco: 25.08,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_659845-MLA100084225715_122025-F.webp",
+    link: "https://www.mercadolivre.com.br/ke-home-bowl-inox-escovado-prateado-nenhum-unidade-1-2-l/p/MLB28428944?product_trigger_id=MLB28642370&picker=true&quantity=1#reviews",
+    comprado: false,
+  },
+  {
+    id: 52,
+    nome: "Jogo de Cama Casal 150 fios 100% Algodão",
+    descricao: "Jogo de Cama Casal 150 fios 100% Algodão - Mix Grafite - Dui Design",
+    preco: 179.90,
+    imagem:
+      "https://3a36cfaa62ac8ba9.cdn.gocache.net/images/produtos/mix_grafite_jogo_2021_1_20210331__g.jpg",
+    link: "https://www.vidaecor.com.br/jogo-cama-casal-150-fios-mix-grafite-dui-design.html#estrelasx",
+    comprado: false,
+  },
+  {
+    id: 53,
+    nome: "Jogo de Cama Casal 150 fios 100% Algodão ",
+    descricao: "Jogo de Cama Casal 150 fios 100% Algodão - Mix Azul - Dui Design",
+    preco: 179.90,
+    imagem:
+      "https://3a36cfaa62ac8ba9.cdn.gocache.net/images/produtos/mix_azul_jogo_2021_1_20210526__g.jpg",
+    link: "https://www.vidaecor.com.br/jogo-cama-casal-150-fios-mix-azul-dui-design.html",
+    comprado: false,
+  },
+  {
+    id: 54,
+    nome: "Jogo de Cama Casal 150 fios 100% Algodão",
+    descricao: "Jogo de Cama Casal 150 fios 100% Algodão - Mix Marfim - Dui Design",
+    preco: 179.90,
+    imagem:
+      "https://3a36cfaa62ac8ba9.cdn.gocache.net/images/produtos/mix_marfim_jogo_2021_1_20210525__g.jpg",
+    link: "https://www.vidaecor.com.br/jogo-cama-casal-150-fios-mix-marfim-dui-design.html",
+    comprado: false,
+  },
+  {
+    id: 55,
+    nome: "Jogo de Cama Casal Percal 180 fios - Tokyo Confrei",
+    descricao: "Jogo de Cama Casal Percal 180 fios - Tokyo Confrei - Dui Design",
+    preco: 194.90,
+    imagem:
+      "https://3a36cfaa62ac8ba9.cdn.gocache.net/images/produtos/osaka-confrei-1_20251027__g.jpg",
+    link: "https://www.vidaecor.com.br/jogo-cama-casal-percal-180-fios-tokyo-confrei-dui-design.html",
+    comprado: false,
+  },
+  {
+    id: 56,
+    nome: "Ferro de Passar Roupa 110v",
+    descricao: "Ferro de Passar Roupa a Vapor e a Seco Electrolux Efficient com Vapor Vertical (ESI10)",
+    preco: 89.91,
+    imagem:
+      "https://m.magazineluiza.com.br/a-static/420x420/ferro-de-passar-roupa-a-vapor-e-a-seco-electrolux-efficient-com-vapor-vertical-esi10/electrolux/310118779/407900378c04dcc6c8ecc901ed37bf26.jpeg",
+    link: "https://www.magazineluiza.com.br/ferro-de-passar-roupa-a-vapor-e-a-seco-electrolux-efficient-com-vapor-vertical-esi10/p/kb4738af3d/ep/ferr/",
+    comprado: false,
+  },
+  {
+    id: 57,
+    nome: "Mesa de Jantar",
+    descricao: "Mesa de Jantar Retangular c/ Vidro para 6 Lugares Addar 180 cm - Natural c/ Off White",
+    preco: 1849.00,
+    imagem:
+      "https://homedock.com.br/cdn/shop/files/01_-Mesa_de_Jantar_Addar_180_cm_-_Natural_c__Vidro_Off_White_Perspectiva.webp?v=1753102371&width=990",
+    link: "https://homedock.com.br/products/mesa-de-jantar-addar-180-cm-natural-c-vidro-off-white?variant=43193220956381&gad_campaignid=22299741030",
+    comprado: false,
+  },
+  {
+    id: 58,
+    nome: "Cadeira de Madeira 3unidades",
+    descricao: "Cadeira de Madeira Maciça Estofada Saga - Natural c/ Linho Mescla Cru - Palhinha",
+    preco: 1437.00,
+    imagem:
+      "https://homedock.com.br/cdn/shop/files/01_-_Cadeira_com_Palhinha_Saga_-_Natural_c__Linho_Cru_Perspectiva.webp?v=1753101600&width=990",
+    link: "https://homedock.com.br/products/cadeira-saga-natural-com-linho-mescla-cru",
+    comprado: false,
+  },
+  {
+    id: 59,
+    nome: "Conjunto de 10 Potes Herméticos",
+    descricao: "Conjunto de 10 Potes Herméticos de Plástico Electrolux",
+    preco: 110.39,
+    imagem:
+      "https://m.magazineluiza.com.br/a-static/420x420/conjunto-de-10-potes-hermeticos-de-plastico-electrolux/hrscmagazine/pote10/5274153cd77e08f8b4e7c4e23c50adee.jpeg",
+    link: "https://www.magazineluiza.com.br/conjunto-de-10-potes-hermeticos-de-plastico-electrolux/p/gd8jh1gc70/ud/poud/?seller_id=hrscmagazine",
+    comprado: false,
+  },
+  {
+    id: 60,
+    nome: "Conjunto Potes Herméticos",
+    descricao: "Conjunto Potes Herméticos Organizador Armário Despensa 14 Un Transparente",
+    preco: 149.93,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_885643-MLB76221147072_052024-F.webp",
+    link: "https://www.mercadolivre.com.br/conjunto-potes-hermeticos-organizador-armario-despensa-14-un/up/MLBU2316375389#polycard_client=search_best-seller&tracking_id=1e14af95-ad97-4d8e-86e6-07df49e1d971&wid=MLB3683286039&sid=search",
+    comprado: false,
+  },
+  {
+    id: 61,
+    nome: "Jogo 6 Taças",
+    descricao: "Jogo 6 Taças Diamante Vidro 330ml Copo Diamond Moderno Luxo Transparente Butter Cream Diamante Lapidado",
+    preco: 39.45,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_991009-MLA99577241370_122025-F.webp",
+    link: "https://www.mercadolivre.com.br/jogo-6-tacas-diamante-vidro-330ml-copo-diamond-moderno-luxo-transparente-butter-cream-diamante-lapidado/p/MLB56966780#reviews",
+    comprado: false,
+  },
+  {
+    id: 62,
+    nome: "Pá Articulada com Cabo",
+    descricao: "Sem modelo específico",
+    preco: 28.99,
+    imagem:
+      "https://m.media-amazon.com/images/I/61+9aSaZ4jL._AC_SX522_.jpg",
+    link: "https://www.amazon.com.br/Articulada-Tiffany-Cereja-Novi%C3%A7a-Bettanin/dp/B0BTJ29C88/ref=asc_df_B0BTJ29C88?mcid=7c949aa2bf393276a9074593796c882c&hvadid=709968341005&hvpos=&hvnetw=g&hvrand=6333301611405438987&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-2292228289649&psc=1&language=pt_BR",
+    comprado: false,
+  },
+  {
+    id: 63,
+    nome: "Espremedor Elétrico 110v",
+    descricao: "Espremedor Premium Mondial 30W E-02",
+    preco: 59.90,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_852738-MLA99700511468_122025-F.webp",
+    link: "https://www.mercadolivre.com.br/mondial-premium-e-02-125-l-preto-127v/p/MLB19307438?product_trigger_id=MLB19307438&attributes=COLOR%3APreto%2CVOLTAGE%3A127V_vpp&picker=true&quantity=1",
+    comprado: false,
+  },
+  {
+    id: 64,
+    nome: "Espremedor de limão",
+    descricao: "Espremedor de limão laranja manual resistente grande forte preto efigen",
+    preco: 24.14,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_738796-MLA95958571990_102025-F.webp",
+    link: "https://www.mercadolivre.com.br/espremedor-de-limo-laranja-manual-resistente-grande-forte-preto-efigen/p/MLB47672785#polycard_client=search_best-seller&tracking_id=432fdbdc-b8f5-4237-8179-0cc72710caf4&wid=MLB4026482899&sid=search",
+    comprado: false,
+  },
+  {
+    id: 65,
+    nome: "Tabua De Corte",
+    descricao: "Tabua De Corte Saudável Pp Aço Inox Para Cortar Dupla Face Dupla Face Prateado",
+    preco: 52.00,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_977704-MLB84443828399_052025-F.webp",
+    link: "https://www.mercadolivre.com.br/tabua-de-corte-saudavel-pp-aco-inox-para-cortar-dupla-face/up/MLBU3118686696#polycard_client=search_best-seller&tracking_id=8093fab1-58db-46ff-9f3b-cc6659d01607&wid=MLB4027938361&sid=search",
+    comprado: false,
+  },
+  {
+    id: 66,
+    nome: "Açucareiro",
+    descricao: "Açucareiro De Cristal Com Colher Pearl - Wolff Perla 10x8x7cm Cor Transparente",
+    preco: 19.00,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_730788-MLA99607328406_122025-F.webp",
+    link: "https://www.mercadolivre.com.br/acucareiro-de-cristal-com-colher-pearl-wolff-perla-10x8x7cm-cor-transparente/p/MLB24712616#polycard_client=search_best-seller&tracking_id=8e12d32e-13fe-4dcb-9afc-093081250686&wid=MLB3388878513&sid=search",
+    comprado: false,
+  },
+  {
+    id: 67,
+    nome: "Pegador Em Pinça Para Carnes",
+    descricao: "Pegador Em Pinça Para Carnes Pizzas Em Aço Inox",
+    preco: 19.00,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_998029-MLA88879775923_072025-F.webp",
+    link: "https://www.mercadolivre.com.br/pegador-em-pinca-para-carnes-pizzas-em-aco-inox/p/MLB51296543#polycard_client=search_best-seller&tracking_id=c887ba03-d07d-4077-8ab2-e7f5a09d4c30&wid=MLB4096005539&sid=search",
+    comprado: false,
+  },
+  {
+    id: 68,
+    nome: "Jogo 10 Peças Inox",
+    descricao: "Jogo 10 Peças Inox Pegador De Macarrão Salada Massa Cor Prateado",
+    preco: 74.95,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_763399-MLA97684436308_112025-F.webp",
+    link: "https://www.mercadolivre.com.br/jogo-10-pecas-inox-pegador-de-macarro-salada-massa-cor-prateado/p/MLB62101311?pdp_filters=item_id:MLB5931161348#is_advertising=true&searchVariation=MLB62101311&backend_model=search-backend&position=1&search_layout=grid&type=pad&tracking_id=a7430321-55f6-4e7f-a4ce-e7a3076aab91&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=YzYzOTdlYmQtN2UyMC00YmVjLTlmZTMtOGZmY2JlOWQ4MDk3",
+    comprado: false,
+  },
+  {
+    id: 69,
+    nome: "Jogo de Jarras",
+    descricao: "Jogo De Jarra 1,5 Litros Com 6 Copos 300ml Em Vidro",
+    preco: 78.90,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_863910-MLA96423826271_102025-F.webp",
+    link: "https://www.mercadolivre.com.br/jogo-de-jarra-15-litros-com-6-copos-300ml-em-vidro/p/MLB36849579#polycard_client=search_best-seller&tracking_id=9b7735f8-20b5-4eb4-9420-978254c65dd2&wid=MLB4361389389&sid=search",
+    comprado: false,
+  },
+  {
+    id: 70,
+    nome: "Aparelho De Jantar E Chá",
+    descricao: "Aparelho De Jantar E Chá 30 Peças Oxford Unni Tropicano",
+    preco: 700.81,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_965298-MLA96870103971_102025-F.webp",
+    link: "https://www.mercadolivre.com.br/aparelho-de-jantar-e-cha-30-pecas-oxford-unni-tropicano/p/MLB46210319#polycard_client=search_best-seller&tracking_id=47b9cc21-631a-4be2-8db1-a989caa84455&wid=MLB4150657669&sid=search",
+    comprado: false,
+  },
+  {
+    id: 71,
+    nome: "Jogo De 6 Xícaras Grandes Liso",
+    descricao: "Jogo De 6 Xícaras Grandes 200 Ml Com Pires Unni Brisa Oxford Liso Marrom/Off White",
+    preco: 165.30,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_600035-MLU79201224611_092024-F.webp",
+    link: "https://www.mercadolivre.com.br/oxford-unni-marromoff-white-lisa-6/p/MLB38622935?product_trigger_id=MLB56612233&picker=true&quantity=1",
+    comprado: false,
+  },
+  {
+    id: 72,
+    nome: "Saladeira",
+    descricao: "Saladeira Conjunto Para Salada 3 Peças",
+    preco: 33.90,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_827067-MLB48723680064_012022-F-saladeira-conjunto-para-salada-3-pecas.webp",
+    link: "https://produto.mercadolivre.com.br/MLB-2129171684-saladeira-conjunto-para-salada-3-pecas-_JM#polycard_client=search-nordic&search_layout=grid&position=6&type=item&tracking_id=66956002-fb52-4b8a-98d4-fab6c711728e&wid=MLB2129171684&sid=search",
+    comprado: false,
+  },
+  {
+    id: 73,
+    nome: "Puff",
+    descricao: "Puff Banqueta Decorativo Viena Linho Pés Madeira Bege",
+    preco: 74.95,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_693691-MLB92363119380_092025-F-puff-banqueta-decorativo-viena-linho-pes-madeira-bege.webp",
+    link: "https://produto.mercadolivre.com.br/MLB-3462959545-puff-banqueta-decorativo-viena-linho-pes-madeira-bege-_JM?searchVariation=180116299159#polycard_client=search-nordic&searchVariation=180116299159&search_layout=grid&position=6&type=item&tracking_id=d8f891a3-ddf1-4a8e-9b4b-fe2b28be2aea",
+    comprado: false,
+  },
+  {
+    id: 74,
+    nome: "Kit Porta Guardanapo + Porta Rolo de Papel Toalha",
+    descricao: "Kit Porta Guardanapo + Porta Rolo de Papel Toalha Suporte Para Mesa Altair Matos Prata",
+    preco: 20.79,
+    imagem:
+      "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mhi43l72cxs6ca.webp",
+    link: "https://shopee.com.br/product/1325644369/58201040349?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkWHlFU0hvQlZFVENpb1FnT09uNDlDSURjbkI5VWw0Y2NsWjR6cTMyNENvK0k5cmpubWRmWVJxUWlmWFJlYksvLzBnYXBTL2dCNStxTE5zd2FJYThyNTNGb0ZSRlMrRmpIM09xZytDUEdoYWVMU2tBMHRwWlV0aHZMVkVuckcvQnZnPT0&gad_campaignid=20828771740",
+    comprado: false,
+  },
   /*
   {
     id: ,
