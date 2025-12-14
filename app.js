@@ -64,8 +64,6 @@ const MessageCircle = ({ size = 24, className = "" }) => (
 
 const ATUALIZADO_EM = "14/12/2025"; 
 const PIX_QR_SRC = "./pix-qrcode.png";
-const PIX_CHAVE = "00020126360014BR.GOV.BCB.PIX0114+55349915979285204000053039865802BR5922Felipe Martins Leandro6009SAO PAULO62140510IZTTTJLwMv63049DF0";
-
 
 const PRODUTOS = [
   {
@@ -891,9 +889,14 @@ function App() {
   );
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-pink-50 via-white to-purple-50">
+    <div className="min-h-screen relative z-0 overflow-hidden bg-gradient-to-br from-rose-50 via-pink-50/40 to-purple-50">
+      {/* Fundo temático (decorativo) */}
+      <div className="pointer-events-none absolute -z-10 -top-32 -left-32 h-96 w-96 rounded-full bg-pink-200/60 blur-3xl" />
+      <div className="pointer-events-none absolute -z-10 top-40 -right-32 h-96 w-96 rounded-full bg-rose-200/50 blur-3xl" />
+      <div className="pointer-events-none absolute -z-10 -bottom-40 left-1/3 h-[28rem] w-[28rem] rounded-full bg-purple-200/50 blur-3xl" />
       {/* Header */}
-      <header className="bg-white shadow-md sticky top-0 z-10">
+      <header className="bg-white/80 backdrop-blur-md shadow-md sticky top-0 z-10 border-b border-pink-100">
+        <div className="h-1 bg-gradient-to-r from-pink-500 via-rose-400 to-purple-500" />
         <div className="max-w-6xl mx-auto px-4 py-6">
           <div className="flex items-center justify-center gap-3 mb-4">
             <Heart className="text-pink-500" size={32} fill="currentColor" />
@@ -938,16 +941,10 @@ function App() {
         {/* Doações via PIX */}
         <div className="bg-white rounded-xl shadow-sm p-4 border border-pink-100 flex flex-col md:flex-row items-center justify-between gap-4">
           <div>
-            <h2 className="text-lg font-bold text-gray-800">Doações via PIX 💖</h2>
+            <h2 className="text-lg font-bold text-gray-800">Contribuições via PIX 💖</h2>
             <p className="text-gray-600 text-sm mt-1">
               Se quiser contribuir com a nossa casinha, é só escanear o QR Code. Obrigado!
             </p>
-
-            {PIX_CHAVE && (
-              <p className="text-gray-500 text-xs mt-2">
-                Chave (copia e cola): <span className="font-mono break-all">{PIX_CHAVE}</span>
-              </p>
-            )}
           </div>
 
           <img
@@ -1141,7 +1138,8 @@ function App() {
       </main>
 
       {/* Footer */}
-      <footer className="bg-white mt-12 py-8 border-t border-gray-200">
+      <footer className="bg-white/80 backdrop-blur-md mt-12 py-8 border-t border-pink-100">
+        <div className="h-1 bg-gradient-to-r from-pink-500 via-rose-400 to-purple-500 mb-6" />
         <div className="max-w-6xl mx-auto px-4 text-center">
           <Heart className="text-pink-500 mx-auto mb-3" size={32} fill="currentColor" />
           <p className="text-gray-600 text-lg font-medium">
