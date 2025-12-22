@@ -244,7 +244,7 @@ const PRODUTOS = [
     imagem:
       "https://m.media-amazon.com/images/I/519xtj+hWQL._AC_SL1000_.jpg",
     link: "https://www.amazon.com.br/Fritadeira-Capacidade-Midea-Eletrica-MAF400P0APK/dp/B0CZM7944K/ref=asc_df_B0CZM7944K?mcid=9b3fd15c0bec3c96943bbd43ddfa5d61&hvadid=709964506256&hvpos=&hvnetw=g&hvrand=14384936127917328476&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-2309174733069&language=pt_BR",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 19,
