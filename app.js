@@ -214,7 +214,7 @@ const PRODUTOS = [
     imagem:
       "https://m.media-amazon.com/images/I/41WyeT009lL._AC_SL1000_.jpg",
     link: "https://www.amazon.com.br/Conjunto-Esp%C3%A1tulas-Manteiga-66906241-Tramontina/dp/B076M7RJ3Z/ref=asc_df_B076M7RJ3Z?mcid=ce96cf021dc7393588605c37e368379a&hvadid=709964506283&hvpos=&hvnetw=g&hvrand=11606906230995601264&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-812002844585&psc=1&language=pt_BR",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 16,
@@ -294,7 +294,7 @@ const PRODUTOS = [
     imagem:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mabot4pjzwl214@resize_w450_nl.webp",
     link: "https://shopee.com.br/product/402561296/22296226895?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkVHQ3ZkZSUTMrR3pBWmZZNzdrcnRBMlhLNlpHOGNCMm5XdFNSeGxXWGVRNnBFeWErVE1MNFhuNXdCcjdMeWVZcFBma2d6UXZBVDczbXpCaDNtVnNHQUJqVmdhMGpmd1U2dkExR1d1Q3o3VEhRdDB6MXc4azY5eHQwVkxxUVVOMm13PT0&gad_campaignid=20828771740",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 24,
@@ -354,7 +354,7 @@ const PRODUTOS = [
     imagem:
       "https://m.media-amazon.com/images/I/41vbRg4q4IL._AC_SX679_.jpg",
     link: "https://www.amazon.com.br/Pl%C3%A1stico-Preta-Linha-Casar-Sanremo/dp/B0C2HZ8FJ2/ref=asc_df_B0C2HZ8FJ2?mcid=b2c269b722d63656989468e05fcbd011&hvadid=709968341005&hvpos=&hvnetw=g&hvrand=6740662713723589633&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-2202104236275&language=pt_BR",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 30,
@@ -374,7 +374,7 @@ const PRODUTOS = [
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_786486-MLA99351805286_112025-F.webp",
     link: "https://www.mercadolivre.com.br/jogo-3-peneiras-aco-inox-cozinha-domestica-e-profissional-resistentes-telas-finas-antiferrugem-multiuso-ideal-para-alimentos-farinhas-chas-e-sucos-ponte-lar-utilidades/p/MLB26404946#polycard_client=search_best-seller&tracking_id=71a82dce-157f-4d73-b77f-040ecfb394dd&wid=MLB4296253115&sid=search",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 32,
@@ -424,7 +424,7 @@ const PRODUTOS = [
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_974224-MLA100074034017_122025-F.webp",
     link: "https://www.mercadolivre.com.br/escorredor-de-macarro-massa-inox-brinox-com-alca-cozinha/p/MLB24325061#polycard_client=search_best-seller&tracking_id=5ce05cb4-eb88-425f-b250-44d179d8fd4d&wid=MLB4279497805&sid=search",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 37,
@@ -484,7 +484,7 @@ const PRODUTOS = [
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_743111-MLA99624767638_122025-F.webp",
     link: "https://www.mercadolivre.com.br/cortador-de-pizza-profissional-inox-massas-pes-bolos-tortas/p/MLB26341011#polycard_client=search_best-seller&tracking_id=43085f2b-6aae-4fa9-a6c9-d66550a98d1b&wid=MLB4614347314&sid=search",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 43,
@@ -524,7 +524,7 @@ const PRODUTOS = [
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_668716-MLA99633968720_122025-F.webp",
     link: "https://www.mercadolivre.com.br/we-varejo-kit-2-copos-medidores-transparente-500-ml-medidas-cozinha-copo-plastico-medidor-dosador-liquido-medida-receita-medir-porco-graduado-ingredientes/p/MLB53818094#polycard_client=search_best-seller&tracking_id=ba63a0f0-5fbb-4aa6-b442-ad27c917cc37&wid=MLB5656384942&sid=search",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 47,
