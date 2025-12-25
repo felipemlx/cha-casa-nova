@@ -64,6 +64,7 @@ const MessageCircle = ({ size = 24, className = "" }) => (
 
 const ATUALIZADO_EM = "25/12/2025"; 
 const PIX_QR_SRC = "./pix-qrcode.png";
+const MOSTRAR_TOTAL_GASTO = false;
 
 const PRODUTOS = [
   {
@@ -928,6 +929,24 @@ function App() {
   const [ordenacao, setOrdenacao] = useState("padrao");
   const [filtro, setFiltro] = useState("todos"); // 'todos', 'disponiveis', 'comprados'
 
+  //total gasto
+  const [mostrarTotal, setMostrarTotal] = useState(MOSTRAR_TOTAL_GASTO);
+  // Expor funções no console
+  React.useEffect(() => {
+    window.toggleTotalGasto = () => {
+      setMostrarTotal(prev => !prev);
+      console.log('Total gasto:', !mostrarTotal ? 'VISÍVEL' : 'OCULTO');
+    };
+    window.mostrarTotalGasto = () => {
+      setMostrarTotal(true);
+      console.log('Total gasto: VISÍVEL');
+    };
+    window.ocultarTotalGasto = () => {
+      setMostrarTotal(false);
+      console.log('Total gasto: OCULTO');
+    };
+  }, [mostrarTotal]);
+
   const produtosFiltrados = PRODUTOS.filter((produto) => {
     if (filtro === "disponiveis") return !produto.comprado;
     if (filtro === "comprados") return produto.comprado;
@@ -943,6 +962,8 @@ function App() {
 
   const totalDisponiveis = PRODUTOS.filter((p) => !p.comprado).length;
   const totalComprados = PRODUTOS.filter((p) => p.comprado).length;
+  const totalGasto = PRODUTOS.filter((p) => p.comprado).reduce((acc, p) => acc + p.preco, 0);
+
 
   const mensagemWhatsApp = encodeURIComponent(
     "Olá! Acabei de comprar um presente do chá de casa nova de vocês 🎁: "
@@ -1034,6 +1055,14 @@ function App() {
             </div>
             <div className="text-gray-600 text-sm">Disponíveis</div>
           </div>
+          {mostrarTotal && (
+            <div className="bg-gradient-to-br from-purple-500 to-pink-500 rounded-lg shadow-sm p-4 text-center col-span-2 md:col-span-1">
+              <div className="text-3xl font-bold text-white">
+                {formatBRL(totalGasto)}
+              </div>
+              <div className="text-white text-sm font-medium">Total Gasto 💰</div>
+            </div>
+          )}
         </div>
 
         {/* Filtros */}
