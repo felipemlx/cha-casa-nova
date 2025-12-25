@@ -846,6 +846,66 @@ const PRODUTOS = [
     link: "https://www.mercadolivre.com.br/mondial-popflix-pp-03-vermelho-127v/p/MLB13471360?product_trigger_id=MLB14805721&attributes=COLOR%3AVermelho%2CVOLTAGE%3A127V_vpp&picker=true&quantity=1",
     comprado: false,
   },
+  {
+    id: 79,
+    nome: "Jogo De Utensilios Evo C/4",
+    descricao: "Jogo De Utensilios Evo C/4 Cores Variadas",
+    preco: 25.55,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_894639-MLB83205660871_032025-F.webp",
+    link: "https://www.mercadolivre.com.br/jogo-de-utensilios-evo-c4-cores-variadas/up/MLBU3076414955?pdp_filters=item_id:MLB5324041192&matt_tool=92013967&matt_internal_campaign_id=&matt_word=&matt_source=google&matt_campaign_id=22603531565&matt_ad_group_id=184689824807&matt_match_type=&matt_network=g&matt_device=c&matt_creative=758138322203&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=584337072&matt_product_id=MLB5324041192&matt_product_partition_id=2425720730334&matt_target_id=pla-2425720730334&cq_src=google_ads&cq_cmp=22603531565&cq_net=g&cq_plt=gp&cq_med=pla&gad_campaignid=22603531565",
+    comprado: true,
+  },
+  {
+    id: 80,
+    nome: "Kit Confeiteiro",
+    descricao: "Kit Confeiteiro C/batedor De Clara + Espátula E Pincel Cinza",
+    preco: 41.16,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_743650-MLB85985751257_062025-F.webp",
+    link: "https://www.mercadolivre.com.br/kit-confeiteiro-cbatedor-de-clara--espatula-e-pincel-cinza/up/MLBU3236659614?pdp_filters=item_id:MLB5429638834&matt_tool=92013967&matt_internal_campaign_id=&matt_word=&matt_source=google&matt_campaign_id=22603531565&matt_ad_group_id=184689824807&matt_match_type=&matt_network=g&matt_device=c&matt_creative=758138322203&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=179924514&matt_product_id=MLB5429638834&matt_product_partition_id=2425720730334&matt_target_id=pla-2425720730334&cq_src=google_ads&cq_cmp=22603531565&cq_net=g&cq_plt=gp&cq_med=pla&gad_campaignid=22603531565",
+    comprado: true,
+  },
+  {
+    id: 81,
+    nome: "Forma Cupcakes",
+    descricao: "Forma Cupcakes 6 Cavidades Antiaderente Teflon 18*26*3 Cm - 123útil",
+    preco: 30.99,
+    imagem:
+      "https://m.magazineluiza.com.br/a-static/420x420/forma-cupcakes-6-cavidades-antiaderente-teflon-18-26-3-cm-123util/casaprimore/10051078831/4a45a4ddbb7234fe42d8c22045c7815f.jpeg",
+    link: "https://www.magazineluiza.com.br/forma-cupcakes-6-cavidades-antiaderente-teflon-18-26-3-cm-123util/p/gj47h3a391/ud/facu/?&seller_id=casaprimore&utm_content=&partner_id=83233&gad_campaignid=23350983304",
+    comprado: true,
+  },
+  {
+    id: 82,
+    nome: "Cesto de Bambu",
+    descricao: "Cesto de Bambu Retangular Médio",
+    preco: 44.88,
+    imagem:
+      "https://m.media-amazon.com/images/I/71Ub9IECFYL._AC_SX679_.jpg",
+    link: "https://www.amazon.com.br/Cesto-de-Bambu-Retangular-M%C3%A9dio/dp/B0FJMSQG9M",
+    comprado: true,
+  },
+  {
+    id: 83,
+    nome: "Porta Chaves",
+    descricao: "Porta Chaves Com Frase",
+    preco: 12.90,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_933521-MLB71499401909_092023-F.webp",
+    link: "https://www.mercadolivre.com.br/porta-chaves-com-frase/up/MLBU1154804596?matt_tool=18956390&pdp_filters=item_id:MLB3712054818",
+    comprado: true,
+  },
+  {
+    id: 84,
+    nome: "Forma para Pão",
+    descricao: "Forma para Pão - 27cm",
+    preco: 24.90,
+    imagem:
+      "https://images.tcdn.com.br/img/img_prod/692716/forma_para_pao_27cm_941_1_bf44d8f0f29a4a44a87460ea8cca465d_20221107155839.jpg",
+    link: "https://www.catuaipresentes.com.br/casa-e-cozinha/panelas-e-assadeiras/formas/forma-ppao-30x13cm",
+    comprado: true,
+  },
   /*
   {
     id: ,
