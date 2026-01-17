@@ -71,10 +71,10 @@ const PRODUTOS = [
     id: 1,
     nome: "Lava Louças 220v",
     descricao: "Lava Louças 8 Serviços Prata 220V Midea",
-    preco: 2310.90,
+    preco: 1999.00,
     imagem:
       "https://m.media-amazon.com/images/I/41uL5YHX9nL._AC_SX679_.jpg",
-    link: "https://www.amazon.com.br/Lava-Lou%C3%A7as-Servi%C3%A7os-Prata-Midea/dp/B0937F9TSG/ref=nosim",
+    link: "https://www.mercadolivre.com.br/midea-dwa08s2-cinza-220v/p/MLB19820244?product_trigger_id=MLB19820244&attributes=COLOR%3ACinza%2CVOLTAGE%3A220V_vpp&pdp_filters=item_id%3AMLB4085449443&applied_product_filters=MLB19820244&picker=true&quantity=1",
     comprado: false,
   },
   {
@@ -101,7 +101,7 @@ const PRODUTOS = [
     id: 4,
     nome: "Geladeira Bivolt ou 220v",
     descricao: "Geladeira/Refrigerador Electrolux Frost Free Inverse Inox Look 400L Efficient IB6S Bivolt",
-    preco: 4099.00,
+    preco: 3853.06,
     imagem:
       "https://a-static.mlcdn.com.br/420x420/geladeira-refrigerador-electrolux-frost-free-inverse-inox-look-400l-efficient-ib6s-bivolt/magazineluiza/240441500/42c30db0515ff6841876c4bf70500f06.jpg",
     link: "https://www.magazineluiza.com.br/geladeira-refrigerador-electrolux-frost-free-inverse-inox-look-400l-efficient-ib6s-bivolt/p/240441500/ed/refr/?seller_id=magazineluiza",
@@ -121,7 +121,7 @@ const PRODUTOS = [
     id: 6,
     nome: "Depurador de Ar Philco 110v",
     descricao: "Depurador de Ar Philco PDR60I Slim Inox - 60cm - 110V",
-    preco: 550.00,
+    preco: 499.00,
     imagem:
       "https://imgs.casasbahia.com.br/12366301/1xg.jpg?imwidth=500",
     link: "https://www.casasbahia.com.br/depurador-de-ar-philco-pdr60i-slim-inox-60cm-110v/p/12366301",
@@ -181,7 +181,7 @@ const PRODUTOS = [
     id: 12,
     nome: "Jogo De Talheres 30pcs",
     descricao: "WOLFF Faqueiro de Aço Inox Berna 30 Peças - Mesa Posta",
-    preco: 240.00,
+    preco: 280.00,
     imagem:
       "https://m.media-amazon.com/images/I/71YJtog8PDL._AC_SL1200_.jpg",
     link: "https://www.amazon.com.br/Faqueiro-Pe%C3%A7as-A%C3%A7o-Inox-Berna/dp/B076PL2ZSP/ref=asc_df_B076PL2ZSP?mcid=2d4795bf688732a5b00e6ad462175cbd&hvadid=709964506220&hvpos=&hvnetw=g&hvrand=9940794270351669298&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-811779203418&language=pt_BR",
@@ -611,7 +611,7 @@ const PRODUTOS = [
     id: 55,
     nome: "Jogo de Cama Casal Percal 180 fios - Tokyo Confrei",
     descricao: "Jogo de Cama Casal Percal 180 fios - Tokyo Confrei - Dui Design",
-    preco: 194.90,
+    preco: 219.90,
     imagem:
       "https://3a36cfaa62ac8ba9.cdn.gocache.net/images/produtos/osaka-confrei-1_20251027__g.jpg",
     link: "https://www.vidaecor.com.br/jogo-cama-casal-percal-180-fios-tokyo-confrei-dui-design.html",
@@ -641,7 +641,7 @@ const PRODUTOS = [
     id: 58,
     nome: "Cadeira de Madeira 3unidades",
     descricao: "Cadeira de Madeira Maciça Estofada Saga - Natural c/ Linho Mescla Cru - Palhinha",
-    preco: 1437.00,
+    preco: 1700.00,
     imagem:
       "https://homedock.com.br/cdn/shop/files/01_-_Cadeira_com_Palhinha_Saga_-_Natural_c__Linho_Cru_Perspectiva.webp?v=1753101600&width=990",
     link: "https://homedock.com.br/products/cadeira-saga-natural-com-linho-mescla-cru",
@@ -761,10 +761,10 @@ const PRODUTOS = [
     id: 70,
     nome: "Aparelho De Jantar E Chá",
     descricao: "Aparelho De Jantar E Chá 30 Peças Oxford Unni Tropicano",
-    preco: 700.81,
+    preco: 490.90,
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_965298-MLA96870103971_102025-F.webp",
-    link: "https://www.mercadolivre.com.br/aparelho-de-jantar-e-cha-30-pecas-oxford-unni-tropicano/p/MLB46210319#polycard_client=search_best-seller&tracking_id=47b9cc21-631a-4be2-8db1-a989caa84455&wid=MLB4150657669&sid=search",
+    link: "https://www.mercadolivre.com.br/aparelho-de-jantar-e-cha-30-pecas-oxford-unni-tropicano/p/MLB46210319?pdp_filters=item_id%3AMLB4104512493#polycard_client=cart_list&wid=MLB4104512493&sid=cart",
     comprado: false,
   },
   {
