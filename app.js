@@ -110,12 +110,12 @@ const PRODUTOS = [
   {
     id: 5,
     nome: "Forno de Embutir Elétrico 220v",
-    descricao: "Forno de Embutir Elétrico Electrolux 80L Efficient com PerfectCook (OE8EL) - 220V",
-    preco: 1749.00,
+    descricao: "Forno de Embutir Elétrico Consul 84 Litros Preto com Timer Autodesligamento e Grill - COB84BE",
+    preco: 1533.37,
     imagem:
-      "https://imgs.casasbahia.com.br/1562458799/2xg.jpg?imwidth=500",
-    link: "https://www.casasbahia.com.br/forno-de-embutir-eletrico-electrolux-80l-efficient-com-perfectcook-oe8el/p/1562458799?IdSku=1562458799&idLojista=24506&tipoLojista=3P&&gad_campaignid=22819949204",
-    comprado: false,
+      "https://m.magazineluiza.com.br/a-static/420x420/forno-de-embutir-eletrico-consul-84-litros-preto-com-timer-autodesligamento-e-grill-cob84be/consul/326183315/fd78ed227d30b9ff81c33f39bc637590.jpeg",
+    link: "https://www.magazineluiza.com.br/forno-de-embutir-eletrico-consul-84-litros-preto-com-timer-autodesligamento-e-grill-cob84be/p/hbcf90j0ed/ed/frne/",
+    comprado: true,
   },
   {
     id: 6,
