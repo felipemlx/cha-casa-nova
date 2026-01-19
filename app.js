@@ -535,7 +535,7 @@ const PRODUTOS = [
     imagem:
       "https://imgs.casasbahia.com.br/55069450/1xg.jpg?imwidth=500",
     link: "https://www.casasbahia.com.br/smart-tv-tcl-50-4k-qled-uhd-50p7k-google-tv-60hz-processador-aipq-preta/p/55069450?IdSku=55069450&idLojista=10037&tipoLojista=1P&&gad_campaignid=22434352731",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 48,
