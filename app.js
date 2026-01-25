@@ -988,6 +988,9 @@ function App() {
               <p className="text-gray-600 text-sm">Nosso Chá de Casa Nova</p>
               <div className="mt-4 flex gap-3 rounded-xl bg-gray-100 p-4">
                 <div>
+                  <span className="flex h-10 w-10 items-center justify-center rounded-full bg-blue-100 text-blue-600">
+                    📍
+                  </span>
                   <p className="text-xs font-medium text-gray-500">
                     Endereço para entrega
                   </p>
