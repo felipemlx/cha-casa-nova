@@ -987,17 +987,13 @@ function App() {
               </h1>
               <p className="text-gray-600 text-sm">Nosso Chá de Casa Nova</p>
               <div className="mt-4 flex gap-3 rounded-xl bg-gray-100 p-4">
-                <span className="flex h-10 w-10 items-center justify-center rounded-full bg-blue-100 text-blue-600">
-                  📍
-                </span>
-
                 <div>
                   <p className="text-xs font-medium text-gray-500">
                     Endereço para entrega
                   </p>
                   <p className="text-sm font-semibold text-gray-800">
-                    Rua Monte Alverne, 190<br />
-                    Estados Unidos – Apto 402
+                    Rua Monte Alverne 190 - Condomínio Carthago Bella Vista Flex – Apto 402<br />
+                    Bairro Estados Unidos, Uberaba - MG, 38015-360
                   </p>
                 </div>
               </div>
