@@ -986,6 +986,21 @@ function App() {
                 Felipe <span className="text-pink-500">&</span> Bárbara
               </h1>
               <p className="text-gray-600 text-sm">Nosso Chá de Casa Nova</p>
+              <div className="mt-4 flex gap-3 rounded-xl bg-gray-100 p-4">
+                <span className="flex h-10 w-10 items-center justify-center rounded-full bg-blue-100 text-blue-600">
+                  📍
+                </span>
+
+                <div>
+                  <p className="text-xs font-medium text-gray-500">
+                    Endereço para entrega
+                  </p>
+                  <p className="text-sm font-semibold text-gray-800">
+                    Rua Monte Alverne, 190<br />
+                    Estados Unidos – Apto 402
+                  </p>
+                </div>
+              </div>
               <p className="text-gray-400 text-xs mt-1">Atualizado em: <span className="font-medium">{ATUALIZADO_EM}</span></p>
             </div>
             <Heart className="text-pink-500" size={32} fill="currentColor" />
