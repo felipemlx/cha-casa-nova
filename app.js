@@ -62,7 +62,7 @@ const MessageCircle = ({ size = 24, className = "" }) => (
   </SvgIcon>
 );
 
-const ATUALIZADO_EM = "25/12/2025"; 
+const ATUALIZADO_EM = "25/01/2026"; 
 const PIX_QR_SRC = "./pix-qrcode.png";
 const MOSTRAR_TOTAL_GASTO = false;
 
@@ -75,7 +75,7 @@ const PRODUTOS = [
     imagem:
       "https://m.media-amazon.com/images/I/41uL5YHX9nL._AC_SX679_.jpg",
     link: "https://www.mercadolivre.com.br/midea-dwa08s2-cinza-220v/p/MLB19820244?product_trigger_id=MLB19820244&attributes=COLOR%3ACinza%2CVOLTAGE%3A220V_vpp&pdp_filters=item_id%3AMLB4085449443&applied_product_filters=MLB19820244&picker=true&quantity=1",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 2,
@@ -988,9 +988,6 @@ function App() {
               <p className="text-gray-600 text-sm">Nosso Chá de Casa Nova</p>
               <div className="mt-4 flex gap-3 rounded-xl bg-gray-100 p-4">
                 <div>
-                  <span className="flex h-10 w-10 items-center justify-center rounded-full bg-blue-100 text-blue-600">
-                    📍
-                  </span>
                   <p className="text-xs font-medium text-gray-500">
                     Endereço para entrega
                   </p>
