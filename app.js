@@ -62,7 +62,7 @@ const MessageCircle = ({ size = 24, className = "" }) => (
   </SvgIcon>
 );
 
-const ATUALIZADO_EM = "08/02/2026"; 
+const ATUALIZADO_EM = "09/02/2026"; 
 const PIX_QR_SRC = "./pix-qrcode.png";
 const MOSTRAR_TOTAL_GASTO = false;
 
