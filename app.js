@@ -119,13 +119,13 @@ const PRODUTOS = [
   },
   {
     id: 6,
-    nome: "Depurador de Ar Philco 110v",
-    descricao: "Depurador de Ar Philco PDR60I Slim Inox - 60cm - 110V",
-    preco: 499.00,
+    nome: "SUGGAR DEPURADOR DE AR SLIM 110v",
+    descricao: "SUGGAR DEPURADOR DE AR SLIM DE EMBUTIR 60CM FRONTAL INOX 110V DE61IX",
+    preco: 800.00,
     imagem:
-      "https://imgs.casasbahia.com.br/12366301/1xg.jpg?imwidth=500",
-    link: "https://www.casasbahia.com.br/depurador-de-ar-philco-pdr60i-slim-inox-60cm-110v/p/12366301",
-    comprado: false,
+      "https://m.media-amazon.com/images/I/51ciFDrjQLL._AC_SX679_.jpg",
+    link: "https://www.amazon.com.br/gp/product/B081FKSGPP/ref=ox_sc_act_title_1?smid=A1ZZFT5FULY4LN&psc=1",
+    comprado: true,
   },
   {
     id: 7,
@@ -327,6 +327,7 @@ const PRODUTOS = [
     link: "https://produto.mercadolivre.com.br/MLB-3718615240-luva-termica-grafatex-anatomica-par-ate-350-graus-50cm-_JM?matt_tool=18956390#reviews",
     comprado: false,
   },
+  /*
   {
     id: 27,
     nome: "Robô Aspirador",
@@ -337,6 +338,7 @@ const PRODUTOS = [
     link: "https://www.kabum.com.br/produto/366168/robo-aspirador-e-passa-pano-kabum-smart-900-5-modos-de-limpeza-base-2-em-1-mapeamento-3d-127v-preto-kbsf009",
     comprado: false,
   },
+  */
   {
     id: 28,
     nome: "Mesa Passadeira Tabua",
