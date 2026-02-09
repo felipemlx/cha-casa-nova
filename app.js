@@ -579,6 +579,7 @@ const PRODUTOS = [
     link: "https://www.mercadolivre.com.br/ke-home-bowl-inox-escovado-prateado-nenhum-unidade-1-2-l/p/MLB28428944?product_trigger_id=MLB28642370&picker=true&quantity=1#reviews",
     comprado: false,
   },
+  /*
   {
     id: 52,
     nome: "Jogo de Cama Casal 150 fios 100% Algodão",
@@ -619,6 +620,7 @@ const PRODUTOS = [
     link: "https://www.vidaecor.com.br/jogo-cama-casal-percal-180-fios-tokyo-confrei-dui-design.html",
     comprado: false,
   },
+  */
   {
     id: 56,
     nome: "Ferro de Passar Roupa 110v",
