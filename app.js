@@ -165,7 +165,7 @@ const PRODUTOS = [
     imagem:
       "https://m.media-amazon.com/images/I/81maZKD-2XL._AC_SL1500_.jpg",
     link: "https://www.amazon.com.br/dp/B0DF3R5LQ4/ref=cm_cr_arp_d_bdcrb_top?ie=UTF8",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 11,
