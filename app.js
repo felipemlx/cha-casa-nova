@@ -749,7 +749,7 @@ const PRODUTOS = [
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_763399-MLA97684436308_112025-F.webp",
     link: "https://www.mercadolivre.com.br/jogo-10-pecas-inox-pegador-de-macarro-salada-massa-cor-prateado/p/MLB62101311?pdp_filters=item_id:MLB5931161348#is_advertising=true&searchVariation=MLB62101311&backend_model=search-backend&position=1&search_layout=grid&type=pad&tracking_id=a7430321-55f6-4e7f-a4ce-e7a3076aab91&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=YzYzOTdlYmQtN2UyMC00YmVjLTlmZTMtOGZmY2JlOWQ4MDk3",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 69,
