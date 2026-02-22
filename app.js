@@ -91,10 +91,10 @@ const PRODUTOS = [
     id: 3,
     nome: "Máquina Lava e Seca 110v",
     descricao: "Máquina de Lavar Midea HealthGuard Smart 11kg Titanium MF200W110WB/GK - 110V",
-    preco: 2499.00,
+    preco: 3098.00,
     imagem:
-      "https://imgs.casasbahia.com.br/1562303218/2xg.jpg?imwidth=500",
-    link: "https://www.casasbahia.com.br/maquina-de-lavar-midea-healthguard-smart-11kg-titanium-mf200w110wb-gk/p/1562303218?IdSku=1562303218&idLojista=221778&tipoLojista=3P&&gad_campaignid=22327510536",
+      "https://imgs.casasbahia.com.br/55069363/1g.jpg?imwidth=500",
+    link: "https://www.casasbahia.com.br/lava-e-seca-midea-slim-healthguard-smart-mf201d110wb-gk-titanium-com-14-programas-wi-fi-e-compativel-com-alexa-11kg-110v/p/55069363",
     comprado: false,
   },
   {
