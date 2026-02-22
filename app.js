@@ -639,7 +639,7 @@ const PRODUTOS = [
     imagem:
       "https://homedock.com.br/cdn/shop/files/01_-Mesa_de_Jantar_Addar_180_cm_-_Natural_c__Vidro_Off_White_Perspectiva.webp?v=1753102371&width=990",
     link: "https://homedock.com.br/products/mesa-de-jantar-addar-180-cm-natural-c-vidro-off-white?variant=43193220956381&gad_campaignid=22299741030",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 58,
