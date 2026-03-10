@@ -105,7 +105,7 @@ const PRODUTOS = [
     imagem:
       "https://a-static.mlcdn.com.br/420x420/geladeira-refrigerador-electrolux-frost-free-inverse-inox-look-400l-efficient-ib6s-bivolt/magazineluiza/240441500/42c30db0515ff6841876c4bf70500f06.jpg",
     link: "https://www.magazineluiza.com.br/geladeira-refrigerador-electrolux-frost-free-inverse-inox-look-400l-efficient-ib6s-bivolt/p/240441500/ed/refr/?seller_id=magazineluiza",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 5,
@@ -644,11 +644,11 @@ const PRODUTOS = [
   {
     id: 58,
     nome: "Cadeira de Madeira 3unidades",
-    descricao: "Cadeira de Madeira Maciça Estofada Saga - Natural c/ Linho Mescla Cru - Palhinha",
-    preco: 1700.00,
+    descricao: "Cadeira de Madeira Maciça Estofada Ella - Natural c/ Linho Off White",
+    preco: 900.00,
     imagem:
-      "https://homedock.com.br/cdn/shop/files/01_-_Cadeira_com_Palhinha_Saga_-_Natural_c__Linho_Cru_Perspectiva.webp?v=1753101600&width=990",
-    link: "https://homedock.com.br/products/cadeira-saga-natural-com-linho-mescla-cru",
+      "https://homedock.com.br/cdn/shop/files/01_-_Cadeira_Ella_Linho_-_Linho_Off_White_-_Natural-_Perspectiva.webp?v=1756389616&width=823",
+    link: "https://homedock.com.br/products/cadeira-ella-linho-linho-off-white-natural?variant=43193006358749",
     comprado: false,
   },
   {
