@@ -353,6 +353,7 @@ const PRODUTOS = [
     link: "https://shopee.com.br/product/317239028/23593167219?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkVHQ3ZkZSUTMrR3pBWmZZNzdrcnRBMWtOaFRnRVlWZUc2WjBKUDAvWk5QMVZ5RllRVlpiZFN6UTRWNVcxWFM1akRWbElycE9YVy8rUWU3Q0V3UUxOYm94Z0tzMGVnVFdGTnRWWHV3cE1wdFBWOWJIM0psUWluREpGcmtHaW5WZUhnPT0&gad_campaignid=20828771740",
     comprado: false,
   },
+  /*
   {
     id: 29,
     nome: "Rodo de Pia",
@@ -373,6 +374,7 @@ const PRODUTOS = [
     link: "https://www.amazon.com.br/Tamanho-M%C3%A9dio-Tiffany-Novi%C3%A7a-Bettanin/dp/B078XPSZSL/ref=asc_df_B078XPSZSL?mcid=a289afea861530bba760d383e7b60fd7&hvadid=709968341005&hvpos=&hvnetw=g&hvrand=16195330138119514777&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-2077793299862&psc=1&language=pt_BR",
     comprado: false,
   },
+  */
   {
     id: 31,
     nome: "Kit 3 Peneiras",
@@ -685,6 +687,7 @@ const PRODUTOS = [
     link: "https://www.mercadolivre.com.br/jogo-6-tacas-diamante-vidro-330ml-copo-diamond-moderno-luxo-transparente-butter-cream-diamante-lapidado/p/MLB56966780#reviews",
     comprado: true,
   },
+  /*
   {
     id: 62,
     nome: "Pá Articulada com Cabo",
@@ -695,6 +698,7 @@ const PRODUTOS = [
     link: "https://www.amazon.com.br/Articulada-Tiffany-Cereja-Novi%C3%A7a-Bettanin/dp/B0BTJ29C88/ref=asc_df_B0BTJ29C88?mcid=7c949aa2bf393276a9074593796c882c&hvadid=709968341005&hvpos=&hvnetw=g&hvrand=6333301611405438987&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-2292228289649&psc=1&language=pt_BR",
     comprado: false,
   },
+  */
   {
     id: 63,
     nome: "Espremedor Elétrico 110v",
