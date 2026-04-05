@@ -62,7 +62,7 @@ const MessageCircle = ({ size = 24, className = "" }) => (
   </SvgIcon>
 );
 
-const ATUALIZADO_EM = "09/02/2026"; 
+const ATUALIZADO_EM = "05/04/2026"; 
 const PIX_QR_SRC = "./pix-qrcode.png";
 const MOSTRAR_TOTAL_GASTO = false;
 
@@ -131,10 +131,10 @@ const PRODUTOS = [
     id: 7,
     nome: "Panela de Pressão Elétrica 110v ou 220v",
     descricao: "Panela de Pressão Elétrica Electrolux Experience por Rita Lobo 6L Inox - PCC20",
-    preco: 545.02,
+    preco: 476.91,
     imagem:
-      "https://fastshopbr.vtexassets.com/arquivos/ids/2679023/0_1a03a01d-f15f-4ecd-a2e9-b53e4675c3a5.jpg?v=638991522036600000",
-    link: "https://site.fastshop.com.br/panela-de-pressao-eletrica-electrolux-experience-por-rita-lobo-6l-inox---pcc20-expcc20ix_prd/p?idsku=13730&gad_campaignid=22756790833",
+      "https://electrolux.vtexassets.com/arquivos/ids/285543-500-500?v=638977982351330000&width=500&height=500&aspect=true&format=auto",
+    link: "https://loja.electrolux.com.br/panela-de-pressao-eletrica-electrolux-6l-preta-experience-por-rita-lobo-/p?idsku=2001756&gad_campaignid=21351429095",
     comprado: false,
   },
   {
@@ -167,6 +167,7 @@ const PRODUTOS = [
     link: "https://www.amazon.com.br/dp/B0DF3R5LQ4/ref=cm_cr_arp_d_bdcrb_top?ie=UTF8",
     comprado: true,
   },
+  /*
   {
     id: 11,
     nome: "Jogo De Talheres 24pcs",
@@ -177,6 +178,7 @@ const PRODUTOS = [
     link: "https://shopee.com.br/product/1046470373/22997389870?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkWHlFU0hvQlZFVENpb1FnT09uNDlDSVRad1VjdUUxNjlzWS9na1lrejBVcktPQm5sSU42ZGdaVWdlbHhpWHozb2lkQzJMNFlTVzVQRHlneHpCdEgweXZlVm1JT0FUaS9FMWFEK3hyaXFnUGdzMExsOW5BQ1ZZVElzc3hYeXlndlJnPT0&gad_campaignid=20828771740",
     comprado: false,
   },
+  */
   {
     id: 12,
     nome: "Jogo De Talheres 30pcs",
@@ -247,6 +249,7 @@ const PRODUTOS = [
     link: "https://www.amazon.com.br/Fritadeira-Capacidade-Midea-Eletrica-MAF400P0APK/dp/B0CZM7944K/ref=asc_df_B0CZM7944K?mcid=9b3fd15c0bec3c96943bbd43ddfa5d61&hvadid=709964506256&hvpos=&hvnetw=g&hvrand=14384936127917328476&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-2309174733069&language=pt_BR",
     comprado: true,
   },
+  /*
   {
     id: 19,
     nome: "Lixeira Branca ou Preta Banheiro",
@@ -257,6 +260,7 @@ const PRODUTOS = [
     link: "https://shopee.com.br/product/1049231391/22798407857?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkWHlFU0hvQlZFVENpb1FnT09uNDlDSVRad1VjdUUxNjlzWS9na1lrejBVcnBpd3haNW1pNnhFbXF4ZERGamxKcm5CTVE2Tm5sZEQ1MVhaeEVsVFdwTHRNNU4wNlR2OHY2Tlh6b3B0anNIVW1lUFVlVzRnQVhCYXM1T1ZGZXZ5UmxBPT0&gad_campaignid=20828771740",
     comprado: false,
   },
+  */
   {
     id: 20,
     nome: "Kit 2 Toalhas Banho",
@@ -679,7 +683,7 @@ const PRODUTOS = [
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_991009-MLA99577241370_122025-F.webp",
     link: "https://www.mercadolivre.com.br/jogo-6-tacas-diamante-vidro-330ml-copo-diamond-moderno-luxo-transparente-butter-cream-diamante-lapidado/p/MLB56966780#reviews",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 62,
@@ -751,6 +755,7 @@ const PRODUTOS = [
     link: "https://www.mercadolivre.com.br/jogo-10-pecas-inox-pegador-de-macarro-salada-massa-cor-prateado/p/MLB62101311?pdp_filters=item_id:MLB5931161348#is_advertising=true&searchVariation=MLB62101311&backend_model=search-backend&position=1&search_layout=grid&type=pad&tracking_id=a7430321-55f6-4e7f-a4ce-e7a3076aab91&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=YzYzOTdlYmQtN2UyMC00YmVjLTlmZTMtOGZmY2JlOWQ4MDk3",
     comprado: true,
   },
+  /*
   {
     id: 69,
     nome: "Jogo de Jarras",
@@ -761,6 +766,7 @@ const PRODUTOS = [
     link: "https://www.mercadolivre.com.br/jogo-de-jarra-15-litros-com-6-copos-300ml-em-vidro/p/MLB36849579#polycard_client=search_best-seller&tracking_id=9b7735f8-20b5-4eb4-9420-978254c65dd2&wid=MLB4361389389&sid=search",
     comprado: false,
   },
+  */
   {
     id: 70,
     nome: "Aparelho De Jantar E Chá",
@@ -771,6 +777,7 @@ const PRODUTOS = [
     link: "https://www.mercadolivre.com.br/aparelho-de-jantar-e-cha-30-pecas-oxford-unni-tropicano/p/MLB46210319?pdp_filters=item_id%3AMLB4104512493#polycard_client=cart_list&wid=MLB4104512493&sid=cart",
     comprado: false,
   },
+  /*
   {
     id: 71,
     nome: "Jogo De 6 Xícaras Grandes Liso",
@@ -781,6 +788,7 @@ const PRODUTOS = [
     link: "https://www.mercadolivre.com.br/oxford-unni-marromoff-white-lisa-6/p/MLB38622935?product_trigger_id=MLB56612233&picker=true&quantity=1",
     comprado: false,
   },
+  */
   {
     id: 72,
     nome: "Saladeira",
@@ -910,6 +918,96 @@ const PRODUTOS = [
       "https://images.tcdn.com.br/img/img_prod/692716/forma_para_pao_27cm_941_1_bf44d8f0f29a4a44a87460ea8cca465d_20221107155839.jpg",
     link: "https://www.catuaipresentes.com.br/casa-e-cozinha/panelas-e-assadeiras/formas/forma-ppao-30x13cm",
     comprado: true,
+  },
+  {
+    id: 85,
+    nome: "Faqueiro Tramontina Inox 88 Peças Laguna",
+    descricao: "Faqueiro Tramontina Laguna 91 Peças em Aço Inox",
+    preco: 377.23,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_746354-MLA109463451747_032026-F.webp",
+    link: "https://www.mercadolivre.com.br/faqueiro-tramontina-laguna-91-pecas-em-aco-inox/p/MLB32488685?pdp_filters=item_id%3AMLB4571160427&from=gshop&matt_tool=13891073&matt_internal_campaign_id=&matt_word=&matt_source=google&matt_campaign_id=22090193717&matt_ad_group_id=174661962444&matt_match_type=&matt_network=g&matt_device=c&matt_creative=727914179500&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098660&matt_product_id=MLB32488685-product&matt_product_partition_id=2388010494946&matt_target_id=pla-2388010494946&cq_src=google_ads&cq_cmp=22090193717&cq_net=g&cq_plt=gp&cq_med=pla&gad_campaignid=22090193717",
+    comprado: false,
+  },
+  {
+    id: 86,
+    nome: "Jogo de Cama Queen Jasmim 100% Algodão 150 Fios 4 Peças Karsten",
+    descricao: "Jogo de Cama Queen Jasmim 100% Algodão 150 Fios 4 Peças Karsten",
+    preco: 256.41,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_696655-MLA83679546757_042025-F.webp",
+    link: "https://www.mercadolivre.com.br/jogo-de-cama-queen-jasmim-100-algodo-150-fios-4-pecas-karsten/p/MLB45899795#reviews",
+    comprado: false,
+  },
+  {
+    id: 87,
+    nome: "Jogo de Cama Queen 150 fios 100% Algodão - Mix Grafite - Dui Design",
+    descricao: "Jogo de Cama Queen 150 fios 100% Algodão - Mix Grafite - Dui Design",
+    preco: 199.70,
+    imagem:
+      "https://3a36cfaa62ac8ba9.cdn.gocache.net/images/produtos/mix_grafite_jogo_2021_1_20210331__g.jpg",
+    link: "https://www.vidaecor.com.br/jogo-cama-queen-150-fios-mix-grafite-dui-design.html",
+    comprado: false,
+  },
+  {
+    id: 88,
+    nome: "Jogo de Cama Queen 300 Fios 100% Algodão Bossa Prata",
+    descricao: "Jogo de Cama Queen 300 Fios 100% Algodão Bossa Prata",
+    preco: 699.99,
+    imagem:
+      "https://karsten.vtexassets.com/arquivos/ids/205624-1200-1200?v=638995895961600000&width=1200&height=1200&aspect=true",
+    link: "https://www.karsten.com.br/jogo-de-cama-queen-300-fios-100-algodao-bossa-prata-3968589/p",
+    comprado: false,
+  },
+  {
+    id: 89,
+    nome: "Jogo de Cama Queen 200 Fios 100% Algodão Tom Verde Campo",
+    descricao: "Jogo de Cama Queen 200 Fios 100% Algodão Tom Verde Campo",
+    preco: 479.99,
+    imagem:
+      "https://karsten.vtexassets.com/arquivos/ids/230695-1200-1200?v=639064357061300000&width=1200&height=1200&aspect=true",
+    link: "https://www.karsten.com.br/jogo-de-cama-queen-200-fios-100-algodao-tom-verde-campo-3957552/p",
+    comprado: false,
+  },
+  {
+    id: 90,
+    nome: "Jogo de Cama Queen 100% Algodão 200 Fios Ariel",
+    descricao: "Jogo de Cama Queen 100% Algodão 200 Fios Ariel",
+    preco: 391.99,
+    imagem:
+      "https://karsten.vtexassets.com/arquivos/ids/229027-1200-1200?v=639062606653870000&width=1200&height=1200&aspect=true",
+    link: "https://www.karsten.com.br/jogo-de-cama-queen-100-algodao-200-fios-ariel-3125434/p",
+    comprado: false,
+  },
+  {
+    id: 91,
+    nome: "WOLFF - Jarra de Vidro Borossilicato com Tampa 1,5L",
+    descricao: "WOLFF - Jarra de Vidro Borossilicato com Tampa 1,5L",
+    preco: 56.90,
+    imagem:
+      "https://m.media-amazon.com/images/I/616iNrq1oZL._AC_SX679_.jpg",
+    link: "https://www.amazon.com.br/WOLFF-Jarra-Vidro-Borossilicato-Tampa/dp/B084KJWYN5/ref=asc_df_B084KJWYN5?mcid=c79cd114da6d33ffb11548997d5a6ab7&hvadid=709964506238&hvpos=&hvnetw=g&hvrand=17219937182661069023&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-1643109333055&hvocijid=17219937182661069023-B084KJWYN5-&hvexpln=0&language=pt_BR",
+    comprado: false,
+  },
+  {
+    id: 92,
+    nome: "Conjunto de Panelas, 5 unidades, Aço Inoxidável, Electrolux",
+    descricao: "Conjunto de Panelas, 5 unidades, Aço Inoxidável, Electrolux",
+    preco: 467.10,
+    imagem:
+      "https://m.media-amazon.com/images/I/41TWhK67VyL._AC_SX679_.jpg",
+    link: "https://www.amazon.com.br/Conjunto-Panelas-unidades-Prata-Electrolux/dp/B086FBRH73",
+    comprado: false,
+  },
+  {
+    id: 93,
+    nome: "Purificador Electrolux Eletrônico",
+    descricao: "Purificador Electrolux Eletrônico Compacto Efficient Painel Digital Bivolt Cinza (PE11X)",
+    preco: 531.90,
+    imagem:
+      "https://imgs.casasbahia.com.br/11688769/1xg.jpg?imwidth=500",
+    link: "https://www.casasbahia.com.br/purificador-electrolux-eletronico-compacto-efficient-painel-digital-bivolt-cinza-pe11x/p/11688769?IdSku=11688769&idLojista=24506&tipoLojista=3P&&gad_campaignid=22850748880",
+    comprado: false,
   },
   /*
   {
