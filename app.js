@@ -62,7 +62,7 @@ const MessageCircle = ({ size = 24, className = "" }) => (
   </SvgIcon>
 );
 
-const ATUALIZADO_EM = "05/04/2026"; 
+const ATUALIZADO_EM = "02/05/2026"; 
 const PIX_QR_SRC = "./pix-qrcode.png";
 const MOSTRAR_TOTAL_GASTO = false;
 
@@ -155,7 +155,7 @@ const PRODUTOS = [
     imagem:
       "https://www.havan.com.br/media/catalog/product/cache/820af7facfa7aca6eb3c138e3457dc8d/f/r/frigideira-4-ovos-fortaleza-26cm_995253_1.webp",
     link: "https://www.havan.com.br/frigideira-4-ovos-fortaleza-26cm-preto/p",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 10,
@@ -393,7 +393,7 @@ const PRODUTOS = [
     imagem:
       "https://m.media-amazon.com/images/I/512hoNqSEqL._AC_SX679_.jpg",
     link: "https://www.amazon.com.br/Ralador-Tramontina-Easy-25106400-Preto/dp/B076MBZ67S/ref=asc_df_B076MBZ67S?mcid=f522711726be30b8bf161dd533fe3976&hvadid=709964506241&hvpos=&hvnetw=g&hvrand=16531330082369595480&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-871739870334&language=pt_BR",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 33,
@@ -463,7 +463,7 @@ const PRODUTOS = [
     imagem:
       "https://imgs.casasbahia.com.br/55058800/1g.jpg?imwidth=500",
     link: "https://www.casasbahia.com.br/sanduicheira-grill-britania-bgr27i-press-850w-antiaderente-inox-preta-110v/p/55058800",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 40,
@@ -585,7 +585,6 @@ const PRODUTOS = [
     link: "https://www.mercadolivre.com.br/ke-home-bowl-inox-escovado-prateado-nenhum-unidade-1-2-l/p/MLB28428944?product_trigger_id=MLB28642370&picker=true&quantity=1#reviews",
     comprado: false,
   },
-  /*
   {
     id: 52,
     nome: "Jogo de Cama Casal 150 fios 100% Algodão",
@@ -594,7 +593,7 @@ const PRODUTOS = [
     imagem:
       "https://3a36cfaa62ac8ba9.cdn.gocache.net/images/produtos/mix_grafite_jogo_2021_1_20210331__g.jpg",
     link: "https://www.vidaecor.com.br/jogo-cama-casal-150-fios-mix-grafite-dui-design.html#estrelasx",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 53,
@@ -604,7 +603,7 @@ const PRODUTOS = [
     imagem:
       "https://3a36cfaa62ac8ba9.cdn.gocache.net/images/produtos/mix_azul_jogo_2021_1_20210526__g.jpg",
     link: "https://www.vidaecor.com.br/jogo-cama-casal-150-fios-mix-azul-dui-design.html",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 54,
@@ -614,7 +613,7 @@ const PRODUTOS = [
     imagem:
       "https://3a36cfaa62ac8ba9.cdn.gocache.net/images/produtos/mix_marfim_jogo_2021_1_20210525__g.jpg",
     link: "https://www.vidaecor.com.br/jogo-cama-casal-150-fios-mix-marfim-dui-design.html",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 55,
@@ -624,9 +623,8 @@ const PRODUTOS = [
     imagem:
       "https://3a36cfaa62ac8ba9.cdn.gocache.net/images/produtos/osaka-confrei-1_20251027__g.jpg",
     link: "https://www.vidaecor.com.br/jogo-cama-casal-percal-180-fios-tokyo-confrei-dui-design.html",
-    comprado: false,
+    comprado: true,
   },
-  */
   {
     id: 56,
     nome: "Ferro de Passar Roupa 110v",
@@ -665,7 +663,7 @@ const PRODUTOS = [
     imagem:
       "https://m.magazineluiza.com.br/a-static/420x420/conjunto-de-10-potes-hermeticos-de-plastico-electrolux/hrscmagazine/pote10/5274153cd77e08f8b4e7c4e23c50adee.jpeg",
     link: "https://www.magazineluiza.com.br/conjunto-de-10-potes-hermeticos-de-plastico-electrolux/p/gd8jh1gc70/ud/poud/?seller_id=hrscmagazine",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 60,
@@ -675,7 +673,7 @@ const PRODUTOS = [
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_885643-MLB76221147072_052024-F.webp",
     link: "https://www.mercadolivre.com.br/conjunto-potes-hermeticos-organizador-armario-despensa-14-un/up/MLBU2316375389#polycard_client=search_best-seller&tracking_id=1e14af95-ad97-4d8e-86e6-07df49e1d971&wid=MLB3683286039&sid=search",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 61,
@@ -933,6 +931,7 @@ const PRODUTOS = [
     link: "https://www.mercadolivre.com.br/faqueiro-tramontina-laguna-91-pecas-em-aco-inox/p/MLB32488685?pdp_filters=item_id%3AMLB4571160427&from=gshop&matt_tool=13891073&matt_internal_campaign_id=&matt_word=&matt_source=google&matt_campaign_id=22090193717&matt_ad_group_id=174661962444&matt_match_type=&matt_network=g&matt_device=c&matt_creative=727914179500&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098660&matt_product_id=MLB32488685-product&matt_product_partition_id=2388010494946&matt_target_id=pla-2388010494946&cq_src=google_ads&cq_cmp=22090193717&cq_net=g&cq_plt=gp&cq_med=pla&gad_campaignid=22090193717",
     comprado: false,
   },
+  /*
   {
     id: 86,
     nome: "Jogo de Cama Queen Jasmim 100% Algodão 150 Fios 4 Peças Karsten",
@@ -951,7 +950,7 @@ const PRODUTOS = [
     imagem:
       "https://3a36cfaa62ac8ba9.cdn.gocache.net/images/produtos/mix_grafite_jogo_2021_1_20210331__g.jpg",
     link: "https://www.vidaecor.com.br/jogo-cama-queen-150-fios-mix-grafite-dui-design.html",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 88,
@@ -983,6 +982,7 @@ const PRODUTOS = [
     link: "https://www.karsten.com.br/jogo-de-cama-queen-100-algodao-200-fios-ariel-3125434/p",
     comprado: false,
   },
+  */
   {
     id: 91,
     nome: "WOLFF - Jarra de Vidro Borossilicato com Tampa 1,5L",
@@ -1012,6 +1012,56 @@ const PRODUTOS = [
       "https://imgs.casasbahia.com.br/11688769/1xg.jpg?imwidth=500",
     link: "https://www.casasbahia.com.br/purificador-electrolux-eletronico-compacto-efficient-painel-digital-bivolt-cinza-pe11x/p/11688769?IdSku=11688769&idLojista=24506&tipoLojista=3P&&gad_campaignid=22850748880",
     comprado: false,
+  },
+  {
+    id: 94,
+    nome: "Escumadeira com Pegador",
+    descricao: "LYOR - Escumadeira com Pegador para Fritura de Aço Inox 28cm",
+    preco: 20.00,
+    imagem:
+      "https://m.media-amazon.com/images/I/41uN7YEZp2L._AC_SX679_.jpg",
+    link: "https://www.amazon.com.br/LYOR-Escumadeira-Pegador-para-Fritura/dp/B0DNTYJFJ5/ref=asc_df_B0DNTYJFJ5?mcid=03b1254f013b39bf926b80d46a7cf65f&hvadid=709876289439&hvpos=&hvnetw=g&hvrand=1745768415089936150&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-2418509694162&psc=1&hvocijid=1745768415089936150-B0DNTYJFJ5-&hvexpln=0&language=pt_BR",
+    comprado: true,
+  },
+  {
+    id: 95,
+    nome: "Jogo De Potes Tramontina",
+    descricao: "Jogo De Potes Tramontina Mixcolor Bege 300 Ml 3 Peças 2026",
+    preco: 23.00,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_664147-MLA110571844157_042026-F.webp",
+    link: "https://www.mercadolivre.com.br/jogo-de-potes-tramontina-mixcolor-bege-300-ml-3-pecas-2026/up/MLBU3914636030?pdp_filters=item_id%3AMLB4615882215&from=gshop&matt_tool=64748201&matt_word=&matt_source=google&matt_campaign_id=23740812889&matt_ad_group_id=195882058235&matt_match_type=&matt_network=g&matt_device=c&matt_creative=804370648684&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=522481874&matt_product_id=MLBU3914636030&matt_product_partition_id=2470627672699&matt_target_id=pla-2470627672699&cq_src=google_ads&cq_cmp=23740812889&cq_net=g&cq_plt=gp&cq_med=pla&gad_campaignid=23740812889",
+    comprado: true,
+  },
+  {
+    id: 96,
+    nome: "Pote Tramontina",
+    descricao: "Pote Tramontina Mixcolor Em Polipropileno Misto Com Tampa Transparente 300 Ml",
+    preco: 10.00,
+    imagem:
+      "https://m.media-amazon.com/images/I/61VEUSHzoOL._AC_SX679_.jpg",
+    link: "https://www.amazon.com.br/Tramontina-Mixcolor-Polipropileno-Misto-Transparente/dp/B0DY9V1YKD/ref=asc_df_B0DY9V1YKD?mcid=eb15e5401d24308e958e121193770a12&hvadid=742212429005&hvpos=&hvnetw=g&hvrand=6107794069024411259&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-2454758326284&psc=1&hvocijid=6107794069024411259-B0DY9V1YKD-&hvexpln=0&language=pt_BR",
+    comprado: true,
+  },
+  {
+    id: 97,
+    nome: "Luva De Forno Cozinha",
+    descricao: "Luva De Forno Cozinha 27cm Antiderrapante 180° Masterchef",
+    preco: 30.00,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_641788-MLA100109640649_122025-F.webp",
+    link: "https://www.mercadolivre.com.br/luva-de-forno-cozinha-27cm-antiderrapante-180-masterchef/p/MLB55800440?matt_tool=18956390&pdp_filters=item_id%3AMLB5691073764&from=gshop",
+    comprado: true,
+  },
+  {
+    id: 98,
+    nome: "Assadeira Marinex Com Tampa",
+    descricao: "Assadeira Marinex Com Tampa 1,6l - Santa Marina",
+    preco: 35.00,
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_859430-MLB107039090207_022026-F.webp",
+    link: "https://www.mercadolivre.com.br/assadeira-marinex-com-tampa-16l--santa-marina/up/MLBU3770146985?pdp_filters=item_id%3AMLB4462143779&from=gshop&matt_tool=64748201&matt_word=&matt_source=google&matt_campaign_id=23740812889&matt_ad_group_id=195882058075&matt_match_type=&matt_network=g&matt_device=c&matt_creative=804370648681&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=5544027729&matt_product_id=MLBU3770146985&matt_product_partition_id=2471556067671&matt_target_id=pla-2471556067671&cq_src=google_ads&cq_cmp=23740812889&cq_net=g&cq_plt=gp&cq_med=pla&gad_campaignid=23740812889",
+    comprado: true,
   },
   /*
   {
