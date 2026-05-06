@@ -829,7 +829,7 @@ const PRODUTOS = [
     imagem:
       "https://m.media-amazon.com/images/I/51B5dWnb5tL._AC_SX522_.jpg",
     link: "https://www.amazon.com.br/Condicionado-LG-Inverter-Voice-Quente/dp/B0CHZ75V3V/ref=asc_df_B0CHZ75V3V?mcid=484ec2781c3135b0968397809a89a3a0&hvadid=709968341215&hvpos=&hvnetw=g&hvrand=1189209080217534962&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-2438512851552&psc=1&language=pt_BR",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 76,
