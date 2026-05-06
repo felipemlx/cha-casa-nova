@@ -89,12 +89,12 @@ const PRODUTOS = [
   },
   {
     id: 3,
-    nome: "Máquina Lava e Seca 110v",
-    descricao: "Máquina de Lavar Midea HealthGuard Smart 11kg Titanium MF200W110WB/GK - 110V",
-    preco: 3098.00,
+    nome: "Lava e Seca LG Smart VC4 110v",
+    descricao: "Lava e Seca LG Smart VC4 12kg Titanium com Inteligência Artificial AIDD™ (CV5012MC4) - 127v",
+    preco: 4274.05,
     imagem:
-      "https://imgs.casasbahia.com.br/55069363/1g.jpg?imwidth=500",
-    link: "https://www.casasbahia.com.br/lava-e-seca-midea-slim-healthguard-smart-mf201d110wb-gk-titanium-com-14-programas-wi-fi-e-compativel-com-alexa-11kg-110v/p/55069363",
+      "https://www.lg.com/content/dam/channel/wcms/br/images/lavadoras-de-roupas/cv5012mc4_ambfbrs_essp_br_c/gallery/large01.jpg?w=800",
+    link: "https://www.lg.com/br/lavanderia/lava-e-seca/cv5012mc4/?region_id=NSS&gad_campaignid=21493651670",
     comprado: false,
   },
   {
