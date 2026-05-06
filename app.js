@@ -89,7 +89,7 @@ const PRODUTOS = [
   },
   {
     id: 3,
-    nome: "Lava e Seca LG Smart VC4 110v",
+    nome: "Lava e Seca LG Smart VC4 110v", //
     descricao: "Lava e Seca LG Smart VC4 12kg Titanium com Inteligência Artificial AIDD™ (CV5012MC4) - 127v",
     preco: 4274.05,
     imagem:
