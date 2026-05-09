@@ -62,7 +62,7 @@ const MessageCircle = ({ size = 24, className = "" }) => (
   </SvgIcon>
 );
 
-const ATUALIZADO_EM = "02/05/2026"; 
+const ATUALIZADO_EM = "08/05/2026"; 
 const PIX_QR_SRC = "./pix-qrcode.png";
 const MOSTRAR_TOTAL_GASTO = false;
 
@@ -197,7 +197,7 @@ const PRODUTOS = [
     imagem:
       "https://m.media-amazon.com/images/I/61PPolYwilL._AC_SL1200_.jpg",
     link: "https://www.amazon.com.br/Facas-Tramontina-L%C3%A2minas-Plenus-Modelo/dp/B0BBY9Y6D6/ref=asc_df_B0BBY9Y6D6?mcid=9aab993c84e63356b6caf0c45f9f2578&hvadid=709964506277&hvpos=&hvnetw=g&hvrand=14921459110520029236&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-1890676181680&psc=1&language=pt_BR",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 14,
@@ -329,9 +329,8 @@ const PRODUTOS = [
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_980002-MLB74061447405_012024-F-luva-termica-grafatex-anatomica-par-ate-350-graus-50cm.webp",
     link: "https://produto.mercadolivre.com.br/MLB-3718615240-luva-termica-grafatex-anatomica-par-ate-350-graus-50cm-_JM?matt_tool=18956390#reviews",
-    comprado: false,
+    comprado: true,
   },
-  /*
   {
     id: 27,
     nome: "Robô Aspirador",
@@ -340,9 +339,8 @@ const PRODUTOS = [
     imagem:
       "https://images8.kabum.com.br/produtos/fotos/366168/robo-aspirador-e-passa-pano-kabum-smart-900-127v-preto-kbsf009_1732795761_gg.jpg",
     link: "https://www.kabum.com.br/produto/366168/robo-aspirador-e-passa-pano-kabum-smart-900-5-modos-de-limpeza-base-2-em-1-mapeamento-3d-127v-preto-kbsf009",
-    comprado: false,
+    comprado: true,
   },
-  */
   {
     id: 28,
     nome: "Mesa Passadeira Tabua",
@@ -453,7 +451,7 @@ const PRODUTOS = [
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_852816-MLA96153647541_102025-F.webp",
     link: "https://www.mercadolivre.com.br/ou-flow-transparente/p/MLB38934892?product_trigger_id=MLB47637228&picker=true&quantity=1",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 39,
@@ -513,7 +511,7 @@ const PRODUTOS = [
     imagem:
       "https://imgs.casasbahia.com.br/5082530/1xg.jpg?imwidth=500",
     link: "https://www.casasbahia.com.br/liquidificador-philco-ph900-preto-1200w-com-12-velocidades/p/5082530?IdSku=5082530&idLojista=10037&tipoLojista=1P&&gad_campaignid=22439388159",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 45,
@@ -745,7 +743,7 @@ const PRODUTOS = [
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_998029-MLA88879775923_072025-F.webp",
     link: "https://www.mercadolivre.com.br/pegador-em-pinca-para-carnes-pizzas-em-aco-inox/p/MLB51296543#polycard_client=search_best-seller&tracking_id=c887ba03-d07d-4077-8ab2-e7f5a09d4c30&wid=MLB4096005539&sid=search",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 68,
@@ -993,6 +991,7 @@ const PRODUTOS = [
     link: "https://www.amazon.com.br/WOLFF-Jarra-Vidro-Borossilicato-Tampa/dp/B084KJWYN5/ref=asc_df_B084KJWYN5?mcid=c79cd114da6d33ffb11548997d5a6ab7&hvadid=709964506238&hvpos=&hvnetw=g&hvrand=17219937182661069023&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-1643109333055&hvocijid=17219937182661069023-B084KJWYN5-&hvexpln=0&language=pt_BR",
     comprado: false,
   },
+  /*
   {
     id: 92,
     nome: "Conjunto de Panelas, 5 unidades, Aço Inoxidável, Electrolux",
@@ -1003,6 +1002,7 @@ const PRODUTOS = [
     link: "https://www.amazon.com.br/Conjunto-Panelas-unidades-Prata-Electrolux/dp/B086FBRH73",
     comprado: false,
   },
+  */
   {
     id: 93,
     nome: "Purificador Electrolux Eletrônico",
@@ -1011,7 +1011,7 @@ const PRODUTOS = [
     imagem:
       "https://imgs.casasbahia.com.br/11688769/1xg.jpg?imwidth=500",
     link: "https://www.casasbahia.com.br/purificador-electrolux-eletronico-compacto-efficient-painel-digital-bivolt-cinza-pe11x/p/11688769?IdSku=11688769&idLojista=24506&tipoLojista=3P&&gad_campaignid=22850748880",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 94,
