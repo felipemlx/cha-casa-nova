@@ -62,7 +62,7 @@ const MessageCircle = ({ size = 24, className = "" }) => (
   </SvgIcon>
 );
 
-const ATUALIZADO_EM = "08/05/2026"; 
+const ATUALIZADO_EM = "11/05/2026"; 
 const PIX_QR_SRC = "./pix-qrcode.png";
 const MOSTRAR_TOTAL_GASTO = false;
 
@@ -89,12 +89,12 @@ const PRODUTOS = [
   },
   {
     id: 3,
-    nome: "Lava e Seca LG Smart VC4 110v", //
-    descricao: "Lava e Seca LG Smart VC4 12kg Titanium com Inteligência Artificial AIDD™ (CV5012MC4) - 127v",
-    preco: 4274.05,
+    nome: "Lava e Seca Samsung WD11M 110v", //
+    descricao: "Lava e Seca Samsung WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg",
+    preco: 3519.12,
     imagem:
-      "https://www.lg.com/content/dam/channel/wcms/br/images/lavadoras-de-roupas/cv5012mc4_ambfbrs_essp_br_c/gallery/large01.jpg?w=800",
-    link: "https://www.lg.com/br/lavanderia/lava-e-seca/cv5012mc4/?region_id=NSS&gad_campaignid=21493651670",
+      "https://a-static.mlcdn.com.br/420x420/lava-e-seca-samsung-wd11m-com-digital-inverter-wd11m4473px-inox-look-11-7kg/samsung/3086/8757565df8571c6d1c1c59eb9408fc7c.jpg",
+    link: "https://www.magazineluiza.com.br/lava-e-seca-samsung-wd11m-com-digital-inverter-wd11m4473px-inox-look-11-7kg/p/agc0echaa8/ed/ela1/?seller_id=samsung",
     comprado: false,
   },
   {
