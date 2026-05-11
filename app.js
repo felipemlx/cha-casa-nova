@@ -95,7 +95,7 @@ const PRODUTOS = [
     imagem:
       "https://a-static.mlcdn.com.br/420x420/lava-e-seca-samsung-wd11m-com-digital-inverter-wd11m4473px-inox-look-11-7kg/samsung/3086/8757565df8571c6d1c1c59eb9408fc7c.jpg",
     link: "https://www.magazineluiza.com.br/lava-e-seca-samsung-wd11m-com-digital-inverter-wd11m4473px-inox-look-11-7kg/p/agc0echaa8/ed/ela1/?seller_id=samsung",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 4,
@@ -471,7 +471,7 @@ const PRODUTOS = [
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_896840-MLA99967101945_112025-F.webp",
     link: "https://www.mercadolivre.com.br/kit-tabua-grande-para-queijos-e-frios-com-petisqueira-bambu-circular-tabua-de-40cm-x-295cm-para-servir-e-organizar-mesas-encontro-familiar-amigos-e-romantico-cor-marrom/p/MLB51230564#reviews",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 41,
@@ -775,7 +775,7 @@ const PRODUTOS = [
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_965298-MLA96870103971_102025-F.webp",
     link: "https://www.mercadolivre.com.br/aparelho-de-jantar-e-cha-30-pecas-oxford-unni-tropicano/p/MLB46210319?pdp_filters=item_id%3AMLB4104512493#polycard_client=cart_list&wid=MLB4104512493&sid=cart",
-    comprado: false,
+    comprado: true,
   },
   /*
   {
