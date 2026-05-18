@@ -62,7 +62,7 @@ const MessageCircle = ({ size = 24, className = "" }) => (
   </SvgIcon>
 );
 
-const ATUALIZADO_EM = "11/05/2026"; 
+const ATUALIZADO_EM = "18/05/2026"; 
 const PIX_QR_SRC = "./pix-qrcode.png";
 const MOSTRAR_TOTAL_GASTO = false;
 
@@ -237,7 +237,7 @@ const PRODUTOS = [
     imagem:
       "https://www.havan.com.br/media/catalog/product/cache/820af7facfa7aca6eb3c138e3457dc8d/a/p/aparelho-de-jantar-ryo-maresia-oxford-20-pcs_1152123.webp",
     link: "https://www.havan.com.br/aparelho-de-jantar-ryo-maresia-oxford-20-pcs-porcelana/p",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 18,
@@ -551,7 +551,7 @@ const PRODUTOS = [
     imagem:
       "https://m.magazineluiza.com.br/a-static/420x420/smart-tv-40-tcl-full-hd-qled-40s5k-google-tv-2-hdmi/magazineluiza/240424300/f60a411527c8cfddf5f8ca404ca1fc2e.jpg",
     link: "https://www.magazineluiza.com.br/smart-tv-40-tcl-full-hd-qled-40s5k-google-tv-2-hdmi/p/240424300/et/tves/",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 49,
@@ -703,7 +703,7 @@ const PRODUTOS = [
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_852738-MLA99700511468_122025-F.webp",
     link: "https://www.mercadolivre.com.br/mondial-premium-e-02-125-l-preto-127v/p/MLB19307438?product_trigger_id=MLB19307438&attributes=COLOR%3APreto%2CVOLTAGE%3A127V_vpp&picker=true&quantity=1",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 64,
