@@ -441,7 +441,7 @@ const PRODUTOS = [
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_614529-MLA99442566842_112025-F.webp",
     link: "https://www.mercadolivre.com.br/kit-cesto-26l-e-balde-10l-dobravel-retratil-pratico-powermaid-cor-branco/p/MLB28131268#polycard_client=search_best-seller&tracking_id=07b302f7-4584-480e-a647-681cefa0e91b&wid=MLB5285240924&sid=search",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 38,
@@ -631,7 +631,7 @@ const PRODUTOS = [
     imagem:
       "https://m.magazineluiza.com.br/a-static/420x420/ferro-de-passar-roupa-a-vapor-e-a-seco-electrolux-efficient-com-vapor-vertical-esi10/electrolux/310118779/407900378c04dcc6c8ecc901ed37bf26.jpeg",
     link: "https://www.magazineluiza.com.br/ferro-de-passar-roupa-a-vapor-e-a-seco-electrolux-efficient-com-vapor-vertical-esi10/p/kb4738af3d/ep/ferr/",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 57,
@@ -723,7 +723,7 @@ const PRODUTOS = [
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_977704-MLB84443828399_052025-F.webp",
     link: "https://www.mercadolivre.com.br/tabua-de-corte-saudavel-pp-aco-inox-para-cortar-dupla-face/up/MLBU3118686696#polycard_client=search_best-seller&tracking_id=8093fab1-58db-46ff-9f3b-cc6659d01607&wid=MLB4027938361&sid=search",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 66,
