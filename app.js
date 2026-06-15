@@ -62,7 +62,7 @@ const MessageCircle = ({ size = 24, className = "" }) => (
   </SvgIcon>
 );
 
-const ATUALIZADO_EM = "27/05/2026"; 
+const ATUALIZADO_EM = "14/06/2026"; 
 const PIX_QR_SRC = "./pix-qrcode.png";
 const MOSTRAR_TOTAL_GASTO = false;
 
@@ -309,7 +309,7 @@ const PRODUTOS = [
     imagem:
       "https://m.media-amazon.com/images/I/51Oaa+IR1sL._AC_SX679_.jpg",
     link: "https://www.amazon.com.br/Colher-Sorvete-Brinox-8215-99-90-Prata/dp/B076Z82HV1/ref=sr_1_32?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-32",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 25,
@@ -319,7 +319,7 @@ const PRODUTOS = [
     imagem:
       "https://m.media-amazon.com/images/I/51R2G9ne7rL._AC_SY879_.jpg",
     link: "https://www.amazon.com.br/Lixeira-Pedal-40l-Preta-Nature/dp/B08SPN6P13/ref=asc_df_B08SPN6P13?mcid=71f9e6df9a0b3b1f9201045a08c0ba80&hvadid=709968341206&hvpos=&hvnetw=g&hvrand=5485595429143151989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198625&hvtargid=pla-1177846128866&psc=1&language=pt_BR",
-    comprado: false,
+    comprado: true,
   },
   {
     id: 26,
